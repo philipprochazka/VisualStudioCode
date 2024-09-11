@@ -1,0 +1,1 @@
+cd "C:\Users\philip\Documents\Templates Drawing & VsCode\Project-Tree-Templates(Project-type specific)" | "start" .

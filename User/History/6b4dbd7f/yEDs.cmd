@@ -1,0 +1,1 @@
+java.exe -Dairsonic.home="C:\\Program Files\\Airsonic" -Dserver.port=4040 -jar airsonic.war

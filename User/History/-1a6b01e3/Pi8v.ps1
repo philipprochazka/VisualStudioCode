@@ -1,0 +1,1 @@
+Set-Location "C:\Users\philip\Documents\Templates Drawing & VsCode\Project-Tree-Templates(Project-type specific)" | Start-Process ["start ."]

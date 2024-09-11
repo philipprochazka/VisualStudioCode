@@ -1,0 +1,97 @@
+// Mixin to center an element both horizontally and vertically
+@mixin center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// Mixin to add a black and yellow background gradient
+@mixin bg-gradient {
+  background: linear-gradient(to bottom right, black, yellow) rotate(45deg);
+  background-size: 150%;
+  background-position: calc(50% - 20%) 50%;
+  background-repeat: no-repeat;
+}
+@mixin cell-bg-color {
+  background-color: transparent;
+}
+
+body {
+   // Use the title-style mixin to set the font size and color of the titles
+   h2 {
+    @include title-style(18px, #333);
+    margin-top: 0;
+  }
+
+  // Use the description-style mixin to set the font size and color of the descriptions
+  p {
+    @include description-style(14px, #666);
+    margin: 10px 0;
+  }
+  {
+    @include bg-gradient;
+    
+  }
+}
+
+header {
+  @include bg-gradient;
+
+  img {
+    width: 100px;
+    height: 100px;
+  }
+
+  nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+  }
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  section:first-of-type {
+    @include center;
+
+    img {
+      width: 100%;
+    }
+  }
+// Import the table styles from table.scss
+@import 'table';
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+  @import 'bullet_point-section' ;
+
+
+footer {
+  @include bg-gradient;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+
+// Override the background color of the table cells
+.item-table td {
+  @include cell-bg-color(transparent);
+}
+
+  div {
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+  }
+  }

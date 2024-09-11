@@ -1,0 +1,11 @@
+2023-04-03 12:58:52.540 +02:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-04-03 12:58:54.588 +02:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-04-03 12:58:54.662 +02:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2023-04-03 12:58:55.455 +02:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-04-03 12:58:55.455 +02:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-04-03 12:58:56.649 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-03 12:58:57.626 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-03 12:59:00.725 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-03 12:59:01.376 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-03 12:59:11.657 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-03 12:59:12.722 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.

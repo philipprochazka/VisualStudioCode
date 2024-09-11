@@ -1,0 +1,9 @@
+{
+    "cSpell.language": "en,cs,lorem,en-GB",
+    "cSpell.enableFiletypes": [
+        "!typescript",
+        "!typescriptreact",
+        "!vue",
+        "svg"
+    ]
+}

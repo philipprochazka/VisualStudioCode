@@ -1,0 +1,229 @@
+Folder PATH listing WebRESUME/Portfolio
+Volume serial number is A0EE-0AF2
+C:.
+│   blog-home-alt.html
+│   blog-home.html
+│   blog-post.html
+│   contact.html
+│   darkmode-button.html
+│   DevCardEN.code-workspace
+│   favicon.ico
+│   footer.html
+│   index.html│     
+│   navbar.html
+│   navbar.js
+│   portfolio.html
+│   project.html
+│   resume.html
+│   services.html
+│   tree.log
+│   
+└───assets
+    ├───css
+    │       dark.css
+    │       theme-1.css
+    │       
+    ├───fontawesome
+    │   ├───css
+    │   │       all.css
+    │   │       all.min.css
+    │   │       brands.css
+    │   │       brands.min.css
+    │   │       fontawesome.css
+    │   │       fontawesome.min.css
+    │   │       regular.css
+    │   │       regular.min.css
+    │   │       solid.css
+    │   │       solid.min.css
+    │   │       svg-with-js.css
+    │   │       svg-with-js.min.css
+    │   │       v4-shims.css
+    │   │       v4-shims.min.css
+    │   │       
+    │   ├───js
+    │   │       all.js
+    │   │       all.min.js
+    │   │       brands.js
+    │   │       brands.min.js
+    │   │       conflict-detection.js
+    │   │       conflict-detection.min.js
+    │   │       fontawesome.js
+    │   │       fontawesome.min.js
+    │   │       regular.js
+    │   │       regular.min.js
+    │   │       solid.js
+    │   │       solid.min.js
+    │   │       v4-shims.js
+    │   │       v4-shims.min.js
+    │   │       
+    │   ├───metadata
+    │   │       categories.yml
+    │   │       icons.json
+    │   │       icons.yml
+    │   │       shims.json
+    │   │       shims.yml
+    │   │       sponsors.yml
+    │   │       
+    │   ├───scss
+    │   │       brands.scss
+    │   │       fontawesome.scss
+    │   │       regular.scss
+    │   │       solid.scss
+    │   │       v4-shims.scss
+    │   │       _animated.scss
+    │   │       _bordered-pulled.scss
+    │   │       _core.scss
+    │   │       _fixed-width.scss
+    │   │       _icons.scss
+    │   │       _larger.scss
+    │   │       _list.scss
+    │   │       _mixins.scss
+    │   │       _rotated-flipped.scss
+    │   │       _screen-reader.scss
+    │   │       _shims.scss
+    │   │       _stacked.scss
+    │   │       _variables.scss
+    │   │       
+    │   ├───sprites
+    │   │       brands.svg
+    │   │       regular.svg
+    │   │       solid.svg
+    │   │       
+    │   ├───svgs
+    │   │   ├───brands
+    │   │   │       
+    │   │   │       
+    │   │   ├───regular
+    │   │   │       
+    │   │   │       
+    │   │   └───solid
+    │   │           
+    │   │       
+    │   ├───clients
+    │   │       
+    │   │       
+    │   ├───favicon
+    │   │       about.svg
+    │   │       
+    │   └───project
+    │           
+    │           
+    ├───js
+    │       blog.js
+    │       isotope-custom.js
+    │       pricing.js
+    │       testimonials.js
+    │       
+    └───plugins
+        │   imagesloaded.pkgd.min.js
+        │   isotope.pkgd.min.js
+        │   js-cookie.min.js
+        │   popper.min.js
+        │   
+        ├───bootstrap
+        │   ├───js
+        │   │   │   alert.js
+        │   │   │   alert.js.map
+        │   │   │   base-component.js
+        │   │   │   base-component.js.map
+        │   │   │   bootstrap.min.js
+        │   │   │   button.js
+        │   │   │   button.js.map
+        │   │   │   carousel.js
+        │   │   │   carousel.js.map
+        │   │   │   collapse.js
+        │   │   │   collapse.js.map
+        │   │   │   dropdown.js
+        │   │   │   dropdown.js.map
+        │   │   │   modal.js
+        │   │   │   modal.js.map
+        │   │   │   offcanvas.js
+        │   │   │   offcanvas.js.map
+        │   │   │   popover.js
+        │   │   │   popover.js.map
+        │   │   │   scrollspy.js
+        │   │   │   scrollspy.js.map
+        │   │   │   tab.js
+        │   │   │   tab.js.map
+        │   │   │   toast.js
+        │   │   │   toast.js.map
+        │   │   │   tooltip.js
+        │   │   │   tooltip.js.map
+        │   │   │   
+        │   │   └───dom
+        │   │           data.js
+        │   │           data.js.map
+        │   │           event-handler.js
+        │   │           event-handler.js.map
+        │   │           manipulator.js
+        │   │           manipulator.js.map
+        │   │           selector-engine.js
+        │   │           selector-engine.js.map
+        │   │           
+        │   └───scss
+        │       │   bootstrap-grid.scss
+        │       │   bootstrap-reboot.scss
+        │       │   bootstrap-utilities.scss
+        │       │   bootstrap.scss
+        │       │   _accordion.scss
+        │       │   _alert.scss
+        │       │   _badge.scss
+        │       │   _breadcrumb.scss
+        │       │   _button-group.scss
+        │       │   _buttons.scss
+        │       │   _card.scss
+        │       │   _carousel.scss
+        │       │   
+        │       ├───forms
+        │       │       _floating-labels.scss
+        │       │       _form-check.scss
+        │       │       _form-control.scss
+        │       │       _form-range.scss
+        │       │       _form-select.scss
+        │       │       _form-text.scss
+        │       │       _input-group.scss
+        │       │       _labels.scss
+        │       │       _validation.scss
+        │       │       
+        │       ├───helpers
+        │       │       _clearfix.scss
+        │       │       _colored-links.scss
+        │       │       _position.scss
+        │       │       _ratio.scss
+        │       │       _stretched-link.scss
+        │       │       _text-truncation.scss
+        │       │       _visually-hidden.scss
+        │       │       
+        │       ├───mixins
+        │       │       _alert.scss
+        │       │       _border-radius.scss
+        │       │       _box-shadow.scss
+        │       │       _breakpoints.scss
+        │       │       _buttons.scss
+        │       │       _caret.scss
+        │       │       _visually-hidden.scss
+        │       │       
+        │       ├───utilities
+        │       │       _api.scss
+        │       │       
+        │       └───vendor
+        │               _rfs.scss
+        │               
+        ├───highlight
+        │   └───styles
+        │           monokai-sublime.css
+        │           
+        └───tiny-slider
+            │   tiny-slider.css
+            │   tiny-slider.helper.ie8.js
+            │   tiny-slider.js
+            │   
+            ├───min
+            │       tiny-slider.helper.ie8.js
+            │       tiny-slider.js
+            │       
+            └───sourcemaps
+                    tiny-slider.css.map
+                    tiny-slider.helper.ie8.js.map
+                    tiny-slider.js.map
+                    

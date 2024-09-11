@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link id="theme-style" rel="stylesheet" href="assets/css/theme-1.css">
+	</head>
+<body>
+	<div id="navbar">
+	<ul class="navbar-nav flex-column text-start">
+		<li class="nav-item">
+			<a class="nav-link active" href="index.html"><i class="fas fa-user fa-fw me-2"></i>About Me<span class="sr-only">(current)</span></a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="portfolio.html"><i class="fas fa-laptop-code fa-fw me-2"></i>Portfolio</a>
+		</li>
+		<li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" href="services.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+				<i class="fas fa-cogs fa-fw me-2"></i>Services &amp; Pricing
+			</a>
+			<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+				<li><a class="dropdown-item" href="services.html">Services</a></li>
+				<li><a class="dropdown-item" href="project.html">Project Page</a></li>
+				<li><a class="dropdown-item" href="blog-home.html">Blog Home 1</a></li>
+				<li><a class="dropdown-item" href="blog-home-alt.html">Blog Home 2</a></li>
+				<li><a class="dropdown-item" href="blog-post.html">Blog Post</a></li>
+			</ul>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="resume.html"><i class="fas fa-file-alt fa-fw me-2"></i>Resume</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="blog-home.html"><i class="fas fa-blog fa-fw me-2"></i>Blog</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="contact.html"><i class="fas fa-envelope-open-text fa-fw me-2"></i>Contact</a>
+		</li>						
+	</ul>
+</div>
+</body>
+</html>

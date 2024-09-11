@@ -1,0 +1,19 @@
+{
+    "cSpell.language": "en,lorem,en-GB,en-US",
+    "cSpell.enableFiletypes": [
+        "PowerShell",
+        "!jupyter",
+        "!latex",
+        "Markdown",
+        "!scala",
+        "ahk2",
+        "bat",
+        "code-runner-output",
+        "code-text-binary",
+        "csv",
+        "properties",
+        "svg"
+    ],
+    "markdown-image.local.path": "/images",
+    "[code-text-binary]": {}
+}

@@ -1,0 +1,6 @@
+2023/04/21-01:25:57.727 616c Creating DB c:\Users\philip\AppData\Roaming\Code\User\workspaceStorage\bf28adbc7a5697c29b0f22e4d1f8ad3f\ms-vscode.js-debug\.profile\Default\IndexedDB\https_e6c851a21dcbe9a5f31006c74514a77a.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2023/04/21-01:25:57.735 616c Reusing MANIFEST c:\Users\philip\AppData\Roaming\Code\User\workspaceStorage\bf28adbc7a5697c29b0f22e4d1f8ad3f\ms-vscode.js-debug\.profile\Default\IndexedDB\https_e6c851a21dcbe9a5f31006c74514a77a.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/21-01:26:00.203 8b80 Level-0 table #5: started
+2023/04/21-01:26:00.209 8b80 Level-0 table #5: 480 bytes OK
+2023/04/21-01:26:00.211 8b80 Delete type=0 #3
+2023/04/21-01:26:00.211 8b80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,102 @@
+// Mixin to center an element both horizontally and vertically
+@mixin center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// Mixin to add a black and yellow background gradient
+@mixin bg-gradient {
+  background: linear-gradient(to bottom right, black, yellow) rotate(45deg);
+  background-size: 150%;
+  background-position: calc(50% - 20%) 50%;
+  background-repeat: no-repeat;
+}
+@mixin cell-bg-color {
+  background-color: transparent;
+}
+@mixin bg-color {
+  background-color: transparent;
+}
+body {
+  @include bg-gradient;
+   // Use the title-style mixin to set the font size and color of the titles
+  h2 {
+    @include title-style(18px, #333);
+    margin-top: 0;
+  }
+
+  // Use the description-style mixin to set the font size and color of the descriptions
+  p {
+    @include description-style(14px, #666);
+    margin: 10px 0;
+  }
+  
+}
+
+header { 
+  @include bg-color;
+  img {
+    width: 100px;
+    height: 100px;
+  }
+
+  nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+  }
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  section:Header-banner {
+    @include center;
+
+    img {
+      width: 100%;
+    }
+  }
+    section:table {
+      @include center;
+// Import the table styles from table.scss
+@import 'table';
+.table {
+  @include center;
+  width: 100%;
+  border-collapse: collapse;
+}
+    }
+  section:bullet_point-section {
+  @import 'bullet_point-section' ;
+  .bullet_point-section {
+  width: 100%;
+  border-collapse: collapse;
+}
+    }
+footer {
+  @include bg-gradient;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+// Override the background color of the table cells
+.item-table td {
+  @include cell-bg-color(transparent);
+}
+
+  div {
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+  }
+}

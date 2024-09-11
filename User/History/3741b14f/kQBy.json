@@ -1,0 +1,25 @@
+{
+    "cSpell.language": "en,lorem,en-GB,en-US,cs",
+    "cSpell.enableFiletypes": [
+        "bat",
+        "clojure",
+        "cmake",
+        "cmake-cache",
+        "code-runner-output",
+        "code-text-binary",
+        "config",
+        "dockercompose",
+        "dockerfile",
+        "dotenv",
+        "editorconfig",
+        "env",
+        "git-rebase",
+        "gitignore",
+        "ini",
+        "json5",
+        "jsonl",
+        "lua",
+        "makefile",
+        "markdown_latex_combined"
+    ]
+}

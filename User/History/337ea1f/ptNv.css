@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "alex_brushregular";
+  src: url("assets/fonts/alex-brush/alexbrush-regular-webfont.woff2")
+      format("woff2"),
+    url("assets/fonts/alex-brush/alexbrush-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Alex Brush', cursive;
+  src: url("https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap");
+  font-weight: normal;
+  font-style: normal;
+}

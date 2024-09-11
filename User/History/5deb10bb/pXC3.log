@@ -1,0 +1,272 @@
+Folder PATH listing laravel aimeos
+Volume serial number is A0EE-0AF2
+C:.
+│   .coveralls.yml
+│   build.xml
+│   composer.json
+│   LICENSE
+│   phpunit.xml
+│   README.md
+│   tree.log
+│   
+├───.circleci
+│       config.yml
+│       
+├───config
+│       default.php
+│       shop.php
+│       
+├───public
+│   └───mimeicons
+│       │   unknown.png
+│       │   
+│       ├───application
+│       │       
+│       │       x-smb-server.png
+│       │       x-smb-workgroup.png
+│       │       x-subrip.png
+│       │       x-tar.png
+│       │       x-tarz.png
+│       │       x-tgif.png
+│       │       x-trash.png
+│       │       x-troff-man.png
+│       │       x-tzo.png
+│       │       x-wmf.png
+│       │       x-zerosize.png
+│       │       x-zoo.png
+│       │       xhtml+xml.png
+│       │       xml.png
+│       │       xsd.png
+│       │       xslt+xml.png
+│       │       zip.png
+│       │       
+│       ├───audio
+│       │       ac3.png
+│       │       midi.png
+│       │       prs.sid.png
+│       │       vnd.rn-realvideo.png
+│       │       x-adpcm.png
+│       │       x-aiff.png
+│       │       x-flac+ogg.png
+│       │       x-flac.png
+│       │       x-generic.png
+│       │       x-monkey.png
+│       │       x-speex+ogg.png
+│       │       x-wav.png
+│       │       
+│       ├───fonts
+│       │       package.png
+│       │       
+│       ├───image
+│       │       svg+xml-compressed.png
+│       │       svg+xml.png
+│       │       x-eps.png
+│       │       x-generic.png
+│       │       x-vnd.trolltech.qpicture.png
+│       │       x-xfig.png
+│       │       
+│       ├───inode
+│       │       directory.png
+│       │       
+│       ├───message
+│       │       news.png
+│       │       rfc822.png
+│       │       
+│       ├───package
+│       │       x-generic.png
+│       │       
+│       ├───text
+│       │       calendar.png
+│       │       css.png
+│       │       csv.png
+│       │       directory.png
+│       │       enriched.png
+│       │       html.png
+│       │       mathml.png
+│       │       plain.png
+│       │       rdf.png
+│       │       rtf.png
+│       │       sgml.png
+│       │       troff.png
+│       │       vcalendar.png
+│       │       vnd.abc.png
+│       │       vnd.wap.wml.png
+│       │       x-adasrc.png
+│       │       x-authors.png
+│       │       x-bibtex.png
+│       │       x-c++hdr.png
+│       │       x-c++src.png
+│       │       x-changelog.png
+│       │       x-chdr.png
+│       │       x-cmake.png
+│       │       x-copying.png
+│       │       x-csharp.png
+│       │       x-csrc.png
+│       │       x-dtd.png
+│       │       x-generic.png
+│       │       x-haskell.png
+│       │       x-hex.png
+│       │       x-install.png
+│       │       x-java.png
+│       │       x-katefilelist.png
+│       │       x-ldif.png
+│       │       x-log.png
+│       │       x-makefile.png
+│       │       x-nfo.png
+│       │       x-objchdr.png
+│       │       x-objcsrc.png
+│       │       x-pascal.png
+│       │       x-patch.png
+│       │       x-po.png
+│       │       x-python.png
+│       │       x-readme.png
+│       │       x-script.png
+│       │       x-sql.png
+│       │       x-tcl.png
+│       │       x-tex.png
+│       │       x-texinfo.png
+│       │       x-vcard.png
+│       │       x-xslfo.png
+│       │       xmcd.png
+│       │       xml.png
+│       │       
+│       ├───uri
+│       │       mms.png
+│       │       mmst.png
+│       │       mmsu.png
+│       │       pnm.png
+│       │       rtspt.png
+│       │       rtspu.png
+│       │       
+│       └───video
+│               mp4.png
+│               webm.png
+│               x-generic.png
+│               x-mng.png
+│               x-wmv.png
+│               
+├───routes
+│       aimeos.php
+│       
+├───src
+│   │   Composer.php
+│   │   helpers.php
+│   │   ShopServiceProvider.php
+│   │   
+│   ├───Base
+│   │       Aimeos.php
+│   │       Config.php
+│   │       Context.php
+│   │       I18n.php
+│   │       Locale.php
+│   │       Shop.php
+│   │       Support.php
+│   │       View.php
+│   │       
+│   ├───Command
+│   │       AbstractCommand.php
+│   │       AccountCommand.php
+│   │       ClearCommand.php
+│   │       JobsCommand.php
+│   │       SetupCommand.php
+│   │       
+│   ├───Controller
+│   │       AccountController.php
+│   │       AdminController.php
+│   │       BasketController.php
+│   │       CatalogController.php
+│   │       CheckoutController.php
+│   │       GraphqlController.php
+│   │       JqadmController.php
+│   │       JsonadmController.php
+│   │       JsonapiController.php
+│   │       PageController.php
+│   │       SupplierController.php
+│   │       
+│   └───Facades
+│           Attribute.php
+│           Basket.php
+│           Catalog.php
+│           Cms.php
+│           Customer.php
+│           Locale.php
+│           Order.php
+│           Product.php
+│           Service.php
+│           Shop.php
+│           Stock.php
+│           Subscription.php
+│           Supplier.php
+│           
+├───tests
+│   │   AimeosTestAbstract.php
+│   │   HelpersTest.php
+│   │   
+│   ├───Base
+│   │       AimeosTest.php
+│   │       ConfigTest.php
+│   │       ContextTest.php
+│   │       I18nTest.php
+│   │       LocaleTest.php
+│   │       SupportTest.php
+│   │       ViewTest.php
+│   │       
+│   ├───Command
+│   │       AccountCommandTest.php
+│   │       ClearCommandTest.php
+│   │       JobsCommandTest.php
+│   │       SetupCommandTest.php
+│   │       
+│   ├───Controller
+│   │       AccountControllerTest.php
+│   │       AdminControllerTest.php
+│   │       BasketControllerTest.php
+│   │       CatalogControllerTest.php
+│   │       CheckoutControllerTest.php
+│   │       GraphqlControllerTest.php
+│   │       JqadmControllerTest.php
+│   │       JsonadmControllerTest.php
+│   │       JsonapiControllerTest.php
+│   │       PageControllerTest.php
+│   │       SupplierControllerTest.php
+│   │       
+│   └───fixtures
+│       └───views
+│               app.blade.php
+│               
+└───views
+    │   base.blade.php
+    │   
+    ├───account
+    │       index.blade.php
+    │       
+    ├───admin
+    │       index.blade.php
+    │       
+    ├───basket
+    │       index.blade.php
+    │       
+    ├───catalog
+    │       count.blade.php
+    │       detail.blade.php
+    │       home.blade.php
+    │       list.blade.php
+    │       session.blade.php
+    │       stock.blade.php
+    │       suggest.blade.php
+    │       tree.blade.php
+    │       
+    ├───checkout
+    │       confirm.blade.php
+    │       index.blade.php
+    │       update.blade.php
+    │       
+    ├───jqadm
+    │       index.blade.php
+    │       
+    ├───page
+    │       index.blade.php
+    │       
+    └───supplier
+            detail.blade.php
+            

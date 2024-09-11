@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "google_sansbold";
+  src: url("assets\fonts\googlesansgooglesans-bold-webfont.woff2") format("woff2"),
+    url("assets\fonts\googlesansgooglesans-bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "google_sansbold_italic";
+  src: url("assets\fonts\googlesansgooglesans-bolditalic-webfont.woff2") format("woff2"),
+    url("assets\fonts\googlesansgooglesans-bolditalic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "google_sansitalic";
+  src: url("assets\fonts\googlesansgooglesans-italic-webfont.woff2") format("woff2"),
+    url("assets\fonts\googlesansgooglesans-italic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "google_sansmedium";
+  src: url("assets\fonts\googlesansgooglesans-mediumitalic-webfont.woff2") format("woff2"),
+    url("assets\fonts\googlesansgooglesans-mediumitalic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "google_sansmedium_italic";
+  src: url("assets\fonts\googlesansgooglesans-mediumitalic-webfont.woff2") format("woff2"),
+    url("assets\fonts\googlesansgooglesans-mediumitalic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "google_sansregular";
+  src: url("assets\fonts\googlesansgooglesans-regular-webfont.woff2") format("woff2"),
+    url("assets\fonts\googlesansgooglesans-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}

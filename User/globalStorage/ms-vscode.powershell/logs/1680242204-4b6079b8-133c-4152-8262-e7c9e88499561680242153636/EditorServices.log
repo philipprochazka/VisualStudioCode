@@ -1,0 +1,188 @@
+2023-03-31 07:56:48.747 +02:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-03-31 07:56:51.167 +02:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-03-31 07:56:51.222 +02:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2023-03-31 07:56:52.014 +02:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-03-31 07:56:52.014 +02:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-03-31 07:58:04.171 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:58:11.889 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 07:58:12.372 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 07:58:13.767 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 07:58:43.601 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell A pipeline chain operator must be followed by a pipeline.
+2023-03-31 07:58:43.857 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell A pipeline chain operator must be followed by a pipeline.
+2023-03-31 07:58:49.795 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell A pipeline chain operator must be followed by a pipeline.
+2023-03-31 08:03:21.871 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:03:21.871 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:03:24.065 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:03:33.808 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:03:34.132 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:03:34.132 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:03:34.705 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:03:34.705 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:03:40.240 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:03:40.240 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:03:41.991 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:03:41.992 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:03:42.248 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:04:39.249 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:04:41.668 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:04:47.911 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:05:35.979 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-03-31 08:06:00.711 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '{' in expression or statement.
+2023-03-31 08:06:22.532 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:06:23.041 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:06:23.717 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '.' in expression or statement.
+2023-03-31 08:06:23.717 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing expression after '.' in pipeline element.
+2023-03-31 08:06:27.857 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '.' in expression or statement.
+2023-03-31 08:06:27.857 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing expression after '.' in pipeline element.
+2023-03-31 08:06:33.216 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:06:34.918 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:06:34.918 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:06:35.392 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:06:35.393 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 08:06:44.561 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ':' in expression or statement.
+2023-03-31 08:06:51.385 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ':' in expression or statement.
+2023-03-31 08:06:53.339 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ':' in expression or statement.
+2023-03-31 08:06:54.841 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '""' in expression or statement.
+2023-03-31 08:07:18.526 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '{' in expression or statement.
+2023-03-31 08:07:19.781 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '{' in expression or statement.
+2023-03-31 08:07:23.642 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '{' in expression or statement.
+2023-03-31 08:07:23.899 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '{' in expression or statement.
+2023-03-31 08:07:26.733 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '{' in expression or statement.
+2023-03-31 08:08:15.951 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2023-03-31 08:08:22.897 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing ')' in expression.
+2023-03-31 08:12:14.018 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:12:14.824 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-03-31 08:12:14.824 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:12:16.003 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-03-31 08:12:16.259 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:13:58.258 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-03-31 08:13:59.016 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-03-31 08:14:04.300 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-03-31 08:14:06.084 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-03-31 08:23:41.868 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell An empty pipe element is not allowed.
+2023-03-31 08:23:58.926 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell An empty pipe element is not allowed.
+2023-03-31 08:23:59.180 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell An empty pipe element is not allowed.
+2023-03-31 08:27:07.947 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "filepat": Unknown word.
+2023-03-31 08:27:56.503 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-03-31 08:28:24.284 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '{' in expression or statement.
+2023-03-31 08:28:27.765 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '{' in expression or statement.
+2023-03-31 08:28:29.121 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '{' in expression or statement.
+2023-03-31 08:29:53.068 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-03-31 08:29:55.069 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-03-31 08:30:14.296 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 08:30:14.296 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 08:30:16.328 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 08:30:17.031 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 08:30:17.032 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 08:30:22.704 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 08:30:28.702 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 08:50:37.686 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:50:38.336 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:50:39.143 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:50:39.143 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ']' in expression or statement.
+2023-03-31 08:50:46.304 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:50:46.629 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:50:47.699 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:50:50.740 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:50:50.995 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"[C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:50:56.891 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"[C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:50:57.147 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:50:58.394 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:51:00.426 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:51:00.681 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '[]"C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:00.682 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing type name after '['.
+2023-03-31 08:51:02.046 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:02.046 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing type name after '['.
+2023-03-31 08:51:08.066 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:08.531 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:08.840 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:09.347 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:09.724 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:51:09.724 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:15.196 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:15.572 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:17.447 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:18.389 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:18.885 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:20.870 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:20.870 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing type name after '['.
+2023-03-31 08:51:21.127 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"["' in expression or statement.
+2023-03-31 08:51:26.311 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"["' in expression or statement.
+2023-03-31 08:51:26.567 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:27.456 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:27.456 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing type name after '['.
+2023-03-31 08:51:29.720 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '["C:\Users\philip\Documents\Templates Drawing & VsCode"]"' in expression or statement.
+2023-03-31 08:51:29.983 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:51:31.067 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:51:31.393 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:51:32.028 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:51:33.411 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:51:33.411 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ']' in expression or statement.
+2023-03-31 08:51:33.667 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:51:37.763 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:51:38.849 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:51:39.267 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 08:52:38.516 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 08:52:38.516 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 08:52:40.569 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 08:52:40.569 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 08:52:42.229 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 08:52:56.105 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 08:53:02.300 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 08:53:03.912 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 08:53:06.811 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 08:54:13.044 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 08:54:28.954 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 08:54:33.719 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 09:05:49.499 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 09:05:55.047 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 09:05:58.831 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 09:06:04.882 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 09:06:04.882 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-03-31 09:06:05.141 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 09:06:11.266 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 09:06:13.888 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 09:06:14.149 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 09:06:15.111 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 09:07:06.865 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 09:07:07.550 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 09:07:11.995 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 09:07:23.450 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 09:29:06.751 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Expre": Unknown word.
+2023-03-31 09:29:18.158 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 09:29:18.483 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 09:29:32.453 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Expresion": Unknown word.
+2023-03-31 09:29:33.155 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Expresion": Unknown word.
+2023-03-31 09:29:33.591 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Expresion": Unknown word.
+2023-03-31 09:29:34.608 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Expresion": Unknown word.
+2023-03-31 09:40:12.544 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell You must provide a value expression following the '-' operator.
+2023-03-31 09:40:49.637 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 09:40:56.077 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 09:40:56.332 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 09:40:59.138 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates Drawing & VsCode"' in expression or statement.
+2023-03-31 09:41:08.107 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Expre": Unknown word.
+2023-03-31 09:41:12.860 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 09:41:13.171 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 09:41:13.481 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 09:41:24.407 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Array index expression is missing or not valid.
+2023-03-31 09:41:36.221 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ']' after array index expression.
+2023-03-31 10:02:49.847 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\Templates-Drawing_and_VsCode"' in expression or statement.
+2023-03-31 10:49:21.495 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Filepa": Unknown word.
+2023-03-31 11:54:57.946 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:54:59.637 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".

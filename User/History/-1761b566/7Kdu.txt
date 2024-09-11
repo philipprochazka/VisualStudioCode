@@ -1,0 +1,5 @@
+barva pruhledneho skla
+
+DEEFF1
+
+r 219 g 253 b 249 h

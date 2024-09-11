@@ -1,0 +1,7 @@
+App.main
+Lis 11, 2021 4:31:05 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 11, 2021 4:31:07 ODP. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Lis 11, 2021 4:31:07 ODP. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2

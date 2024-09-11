@@ -1,0 +1,47 @@
+<advancedsettings version="1.0">
+<advancedsettings>
+  <cache>
+    <memorysize>8615799467</memorysize>
+    <buffermode>1</buffermode>
+    <readfactor>4.0</readfactor> 
+  </cache>
+  <pvr>
+    <timecorrection>0</timecorrection>
+    <infotoggleinterval>3000</infotoggleinterval>
+    <channeliconsautoscan>true</channeliconsautoscan>
+    <autoscaniconsuserset>false</autoscaniconsuserset>
+    <numericchannelswitchtimeout>1000</numericchannelswitchtimeout>
+  </pvr>
+  <epg>
+    <updatecheckinterval>300</updatecheckinterval>
+    <updateemptytagsinterval>60</updateemptytagsinterval>
+    <cleanupinterval>900</cleanupinterval>
+    <activetagcheckinterval>60</activetagcheckinterval>
+    <retryinterruptedupdateinterval>60</retryinterruptedupdateinterval>
+    <displayupdatepopup>true</displayupdatepopup>
+    <displayincrementalupdatepopup>false</displayincrementalupdatepopup>
+  </epg>
+  <jsonrpc>
+    <compactoutput>false</compactoutput>
+    <tcpport>9090</tcpport>
+  </jsonrpc>
+  <video>
+    <enablehighqualityhwscalers>true</enablehighqualityhwscalers>
+    <dxvaallowhqscaling>true</dxvaallowhqscaling>
+    <autoscalemaxfps>60</autoscalemaxfps>
+    <fpsdetect>1</fpsdetect>
+    <subtitleverticalmargin>120</subtitleverticalmargin>
+  </video>
+  <videolibrary>
+    <allitemsonbottom>false</allitemsonbottom>
+    <cleanonupdate>false</cleanonupdate>
+    <usefasthash>true</usefasthash>
+    <recentlyaddeditems>50</recentlyaddeditems>
+    <itemseparator> / </itemseparator>
+    <exportautothumbs>true</exportautothumbs>
+    <importwatchedstate>false</importwatchedstate>
+    <importresumepoint>false</importresumepoint>
+    <dateadded>1</dateadded>
+    <imageres>1080</imageres>
+  </videolibrary>
+</advancedsettings>

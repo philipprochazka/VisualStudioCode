@@ -1,0 +1,7 @@
+2023-12-04 08:22:17.285 +01:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-12-04 08:22:20.557 +01:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-12-04 09:31:04.235 +01:00 [INF] Unable to find PSSA settings file at 'C:\Users\philip\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-12-04 09:31:04.239 +01:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-12-04 09:31:19.429 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell You must provide a value expression following the '=' operator.
+2023-12-04 09:31:19.843 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell You must provide a value expression following the '=' operator.
+2023-12-04 09:31:34.411 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell You must provide a value expression following the '=' operator.

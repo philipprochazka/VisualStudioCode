@@ -1,0 +1,3 @@
+App.main
+Úno 11, 2022 11:48:50 DOP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification

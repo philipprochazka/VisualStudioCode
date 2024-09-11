@@ -1,0 +1,349 @@
+2023-03-30 16:33:32.242 +02:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-03-30 16:33:34.251 +02:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-03-30 16:33:34.321 +02:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2023-03-30 16:33:35.113 +02:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-03-30 16:33:35.113 +02:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-03-31 07:02:59.484 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-03-31 07:08:35.180 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "firless": Unknown word.
+2023-03-31 07:08:35.180 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "firless": Unknown word.
+2023-03-31 07:08:36.434 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirless": Unknown word.
+2023-03-31 07:08:37.424 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirless": Unknown word.
+2023-03-31 07:08:38.867 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirls": Unknown word.
+2023-03-31 07:09:02.891 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirls": Unknown word.
+2023-03-31 07:09:04.814 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirls": Unknown word.
+2023-03-31 07:09:04.814 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:09:11.509 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:09:12.291 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:09:12.640 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:09:13.137 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:09:43.241 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:10:28.916 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:10:31.526 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:13:10.706 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:14:10.470 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:14:17.195 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: '.
+2023-03-31 07:14:17.452 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: '.
+2023-03-31 07:14:18.145 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: '.
+2023-03-31 07:14:19.543 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: '.
+2023-03-31 07:14:22.782 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-03-31 07:14:46.530 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:14:46.786 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:14:49.410 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:14:49.669 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:14:53.283 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:15:42.494 +02:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-03-31 07:15:44.552 +02:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-03-31 07:15:44.617 +02:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2023-03-31 07:15:44.809 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:15:45.425 +02:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-03-31 07:15:45.425 +02:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-03-31 07:19:27.795 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"-paging"' in expression or statement.
+2023-03-31 07:19:28.099 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"-paging"' in expression or statement.
+2023-03-31 07:19:28.626 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"-paging"' in expression or statement.
+2023-03-31 07:19:29.354 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"-paging"' in expression or statement.
+2023-03-31 07:19:29.354 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ''
+# Set-Alias cd "z"
+#if ($host.Name -eq '' in expression or statement.
+2023-03-31 07:19:29.633 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ''
+# Set-Alias cd "z"
+#if ($host.Name -eq '' in expression or statement.
+2023-03-31 07:19:32.859 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"-paging"' in expression or statement.
+2023-03-31 07:19:32.859 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ''
+# Set-Alias cd "z"
+#if ($host.Name -eq '' in expression or statement.
+2023-03-31 07:19:33.115 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"-paging"' in expression or statement.
+2023-03-31 07:19:38.651 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"-paging""
+# Set-Alias cd "' in expression or statement.
+2023-03-31 07:19:39.156 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"-paging""
+# Set-Alias cd "' in expression or statement.
+2023-03-31 07:19:40.344 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:21:48.227 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:24:51.135 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:24:53.948 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:25:17.267 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-03-31 07:26:13.579 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:14.037 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:14.459 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:15.284 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:16.261 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:16.523 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:23.008 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:23.266 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:24.446 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:24.708 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:25.829 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:25.829 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:26.087 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:37.712 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:38.328 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:39.645 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:40.113 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:26:41.200 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:27:07.410 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:27:07.831 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:27:37.953 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:27:39.078 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:27:39.340 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:27:39.818 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 07:28:07.472 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-03-31 07:28:09.473 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-03-31 07:29:01.250 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "alia": Unknown word.
+2023-03-31 07:29:52.889 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:29:53.146 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:29:59.663 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:30:01.986 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:30:04.575 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:31:02.080 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:31:06.843 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:31:31.048 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:31:31.498 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:31:58.406 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:31:58.406 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:32:28.460 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 07:32:38.638 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:33:26.213 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:34:14.093 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:34:14.727 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:34:16.558 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:34:17.382 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "empg": Unknown word.
+2023-03-31 07:34:24.075 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "empg": Unknown word.
+2023-03-31 07:34:24.818 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:34:33.641 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:34:35.951 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 07:34:37.857 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:34:38.908 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:04.468 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:06.631 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:07.134 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:09.629 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:11.010 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:11.268 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:11.737 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:18.407 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:21.984 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:26.308 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:36:26.710 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:45:08.192 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:45:08.986 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:45:09.850 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 07:45:28.406 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 07:45:30.853 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 07:45:31.058 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 07:45:31.064 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 07:45:31.504 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 07:45:36.154 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 07:45:36.287 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 07:45:36.295 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 07:47:35.706 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 07:47:38.652 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 09:24:54.256 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 09:25:20.714 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 09:25:24.755 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempg": Unknown word.
+2023-03-31 10:08:32.026 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'W=' in expression or statement.
+2023-03-31 10:08:33.305 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token 'W=' in expression or statement.
+2023-03-31 10:08:42.553 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-03-31 10:08:44.453 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-03-31 10:12:33.009 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 10:15:15.156 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:15:41.019 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-03-31 10:15:41.833 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powerline": Unknown word.
+2023-03-31 10:15:45.985 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-03-31 10:15:46.528 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 10:18:04.898 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-03-31 10:20:00.900 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-03-31 10:21:35.849 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 10:23:12.938 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Parameter -filepath: requires an argument.
+2023-03-31 10:23:14.385 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Parameter -filepath: requires an argument.
+2023-03-31 10:25:46.712 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 10:25:51.910 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing file specification after redirection operator.
+2023-03-31 10:25:57.801 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 10:25:58.079 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 10:25:59.878 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The '<' operator is reserved for future use.
+2023-03-31 10:27:12.446 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 10:29:07.762 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:30:35.202 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:30:37.403 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:30:37.744 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:30:38.830 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:31:52.423 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:31:55.602 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:36:38.180 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 10:37:35.152 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:41:24.661 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "invo": Unknown word.
+2023-03-31 10:41:38.833 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 10:41:39.143 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 10:41:39.453 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 10:41:51.390 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:41:52.881 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:46:09.154 +02:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Visitors\AstOperations.cs:line 141
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-03-31 10:46:19.472 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:46:21.044 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:46:21.338 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 10:46:28.906 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-03-31 10:55:44.003 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:55:44.282 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:55:44.979 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:55:45.429 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:55:47.199 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:55:47.493 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:55:49.954 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:56:11.144 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:56:12.042 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:56:13.392 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:56:13.392 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Expressions are only allowed as the first element of a pipeline.
+2023-03-31 10:56:28.008 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "hostdir": Unknown word.
+2023-03-31 10:56:30.551 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "hostdir": Unknown word.
+2023-03-31 11:05:56.843 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempú": Unknown word.
+2023-03-31 11:05:58.210 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:06:13.972 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempg": Unknown word.
+2023-03-31 11:06:16.050 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempd": Unknown word.
+2023-03-31 11:07:50.581 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:07:51.046 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempd": Unknown word.
+2023-03-31 11:07:51.046 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:07:51.557 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempd": Unknown word.
+2023-03-31 11:07:51.557 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:10:15.743 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempd": Unknown word.
+2023-03-31 11:14:27.519 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempd": Unknown word.
+2023-03-31 11:14:27.520 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:14:52.955 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:14:53.320 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:07.355 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:07.759 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:12.296 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:28.094 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:28.840 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:29.320 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:30.419 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:32.465 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:45.146 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:46.121 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:51.656 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:52.880 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:16:52.880 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:17:08.378 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:19:27.848 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:19:28.302 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:19:34.483 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:20:44.250 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:20:46.170 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:20:46.170 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:20:50.324 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:21:38.311 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:21:39.226 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:23:02.162 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\PowerShell\Scripts\TempP.ps1"' in expression or statement.
+2023-03-31 11:23:02.609 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '"C:\Users\philip\Documents\PowerShell\Scripts\TempP.ps1"' in expression or statement.
+2023-03-31 11:23:30.157 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:25:28.795 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:25:52.585 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:27:32.381 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempd": Unknown word.
+2023-03-31 11:27:32.381 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:27:46.281 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempd": Unknown word.
+2023-03-31 11:27:46.281 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:27:48.513 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempd": Unknown word.
+2023-03-31 11:27:48.513 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:28:05.594 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "alia": Unknown word.
+2023-03-31 11:28:05.851 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "alia": Unknown word.
+2023-03-31 11:28:31.385 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempd": Unknown word.
+2023-03-31 11:28:31.789 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:28:32.981 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:33:47.850 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:35:06.209 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:35:38.421 +02:00 [FTL] unhandled exception
+OmniSharp.Extensions.JsonRpc.InputProcessingException: There was an error processing input the contents of the buffer were ''
+ ---> System.InvalidOperationException: Reading is not allowed after reader was completed.
+   at System.IO.Pipelines.ThrowHelper.ThrowInvalidOperationException_NoReadingAllowed()
+   at System.IO.Pipelines.Pipe.AdvanceReader(SequencePosition& consumed, SequencePosition& examined)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.<Start>b__26_0()
+2023-03-31 11:35:41.320 +02:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-03-31 11:35:43.185 +02:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-03-31 11:35:43.257 +02:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2023-03-31 11:35:44.050 +02:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-03-31 11:35:44.050 +02:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-03-31 11:36:04.026 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:36:16.973 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Array index expression is missing or not valid.
+2023-03-31 11:37:11.052 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Array index expression is missing or not valid.
+2023-03-31 11:37:52.576 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:37:54.451 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Array index expression is missing or not valid.
+2023-03-31 11:37:58.419 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Array index expression is missing or not valid.
+2023-03-31 11:37:59.611 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Array index expression is missing or not valid.
+2023-03-31 11:38:00.713 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:38:13.113 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:38:16.027 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Array index expression is missing or not valid.
+2023-03-31 11:38:43.009 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Array index expression is missing or not valid.
+2023-03-31 11:38:58.114 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Array index expression is missing or not valid.
+2023-03-31 11:39:00.607 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Array index expression is missing or not valid.
+2023-03-31 11:39:02.177 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:39:04.190 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:39:04.190 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:39:04.446 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:39:51.807 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:39:52.490 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:43:17.114 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:43:53.388 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:43:56.438 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:43:57.197 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:43:59.663 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:44:14.888 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:44:15.441 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:44:20.970 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:44:25.105 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:44:26.974 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:44:28.586 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:44:42.986 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:44:43.855 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:45:15.473 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:45:17.890 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "temppv": Unknown word.
+2023-03-31 11:45:20.084 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "temppv": Unknown word.
+2023-03-31 11:46:21.493 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:46:42.723 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:46:43.229 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:46:45.485 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-03-31 11:47:11.801 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "temppv": Unknown word.
+2023-03-31 11:47:22.927 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-03-31 11:47:25.565 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "temppv": Unknown word.
+2023-03-31 11:47:46.217 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "temppv": Unknown word.
+2023-03-31 11:49:52.364 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "temppv": Unknown word.
+2023-03-31 11:50:08.546 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "temppv": Unknown word.
+2023-03-31 11:50:46.385 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "temppv": Unknown word.
+2023-03-31 11:50:50.022 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "emplates": Unknown word.
+2023-03-31 11:53:25.175 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempp": Unknown word.
+2023-03-31 11:54:00.953 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 11:57:43.531 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 11:57:48.818 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dirl": Unknown word.
+2023-03-31 12:05:22.396 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Tempd": Unknown word.

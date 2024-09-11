@@ -1,0 +1,20 @@
+2023-04-06 00:50:28.702 +02:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-04-06 00:50:30.434 +02:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-04-06 00:50:30.500 +02:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2023-04-06 00:50:31.307 +02:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-04-06 00:50:31.307 +02:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-04-06 00:50:31.923 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:50:36.638 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:50:37.654 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:50:49.801 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempd": Unknown word.
+2023-04-06 00:50:50.296 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:50:54.202 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:50:55.125 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:50:57.595 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:52:05.055 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:52:05.989 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:52:06.593 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:52:07.585 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:52:09.197 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempp": Unknown word.
+2023-04-06 00:54:06.911 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempd": Unknown word.
+2023-04-06 00:54:07.587 +02:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "tempd": Unknown word.

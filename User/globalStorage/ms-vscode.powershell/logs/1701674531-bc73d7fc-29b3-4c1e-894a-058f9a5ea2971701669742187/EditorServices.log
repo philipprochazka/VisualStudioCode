@@ -1,0 +1,8 @@
+2023-12-04 08:22:17.286 +01:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-12-04 08:22:20.369 +01:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-12-04 18:15:49.149 +01:00 [FTL] unhandled exception
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'start')
+   at System.Buffers.BuffersExtensions.ToArray[T](ReadOnlySequence`1& sequence)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.<Start>b__26_0()

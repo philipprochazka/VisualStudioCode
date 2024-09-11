@@ -1,0 +1,1 @@
+Invoke-Expression $env"Start-Process -filepath "C:\Users\philip\Documents\Templates-Drawing_and_VsCode\Project-Tree-Templates-Type-specific""

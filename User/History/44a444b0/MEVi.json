@@ -1,0 +1,21 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+alt+numpad_multiply",
+        "command": "bookmarks.selectLines"
+    },
+    {
+        "key": "shift+numpad_multiply",
+        "command": "bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+k",
+        "command": "-bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+c z",
+        "command": "cSpellExt_czech.enableCzech"
+    }
+]

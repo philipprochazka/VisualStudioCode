@@ -1,0 +1,46 @@
+2023-01-18 14:59:00.293 +01:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-01-18 14:59:01.050 +01:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-01-18 14:59:01.101 +01:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2023-01-18 14:59:01.921 +01:00 [ERR] Could not resolve relative script path
+    baseFilePath = 
+        relativePath = PSScriptAnalyzerSettings.psd1
+
+System.ArgumentNullException: Value cannot be null. (Parameter 'path1')
+   at System.IO.Path.Combine(String path1, String path2)
+   at Microsoft.PowerShell.EditorServices.Services.WorkspaceService.ResolveRelativeScriptPath(String baseFilePath, String relativePath) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Workspace\WorkspaceService.cs:line 524
+2023-01-18 14:59:01.921 +01:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-01-18 14:59:01.921 +01:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-01-18 15:21:04.798 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Plugi": Unknown word.
+2023-01-18 15:22:48.229 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:22:48.230 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:22:48.230 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:22:49.378 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:22:49.378 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:22:49.378 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:22:49.663 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:22:49.663 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:22:49.663 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:24:09.102 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:24:09.102 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:24:09.102 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:25:06.038 +01:00 [FTL] Failed to handle request textDocument/didChange
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'Position 12:1 is outside of the line range of 1 to 10.')
+   at Microsoft.PowerShell.EditorServices.Services.TextDocument.ScriptFile.ValidatePosition(Int32 line, Int32 column) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\ScriptFile.cs:line 288
+   at Microsoft.PowerShell.EditorServices.Services.TextDocument.ScriptFile.ApplyChange(FileChange fileChange) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\ScriptFile.cs:line 342
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesTextDocumentHandler.Handle(DidChangeTextDocumentParams notification, CancellationToken token) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\TextDocumentHandler.cs:line 52
+   at OmniSharp.Extensions.JsonRpc.JsonRpcServerServiceCollectionExtensions.RequestHandlerDecorator`2.Handle(T request, CancellationToken cancellationToken)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at OmniSharp.Extensions.LanguageServer.Server.Pipelines.SemanticTokensDeltaPipeline`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at OmniSharp.Extensions.LanguageServer.Server.Pipelines.ResolveCommandPipeline`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at OmniSharp.Extensions.JsonRpc.RequestRouterBase`1.<RouteNotification>g__InnerRoute|6_0(IServiceScopeFactory serviceScopeFactory, TDescriptor descriptor, Object params, CancellationToken token)
+   at OmniSharp.Extensions.JsonRpc.RequestRouterBase`1.RouteNotification(IRequestDescriptor`1 descriptors, Notification notification, CancellationToken token)
+   at OmniSharp.Extensions.JsonRpc.DefaultRequestInvoker.<>c__DisplayClass11_0.<<RouteNotification>b__3>d.MoveNext()
+2023-01-18 15:44:48.806 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:44:48.807 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 15:44:48.807 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.

@@ -1,0 +1,7 @@
+.dark-mode-toggle .toggle-name {
+    color: #fff;
+    font-size: 0.875rem;
+  }
+    .dark-mode-toggle .toggle {
+    display: none;
+  }

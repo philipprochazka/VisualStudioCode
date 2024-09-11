@@ -1,0 +1,96 @@
+2023-01-18 16:11:02.312 +01:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-01-18 16:11:03.822 +01:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-01-18 16:11:03.911 +01:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
+2023-01-18 16:11:04.821 +01:00 [ERR] Could not resolve relative script path
+    baseFilePath = 
+        relativePath = PSScriptAnalyzerSettings.psd1
+
+System.ArgumentNullException: Value cannot be null. (Parameter 'path1')
+   at System.IO.Path.Combine(String path1, String path2)
+   at Microsoft.PowerShell.EditorServices.Services.WorkspaceService.ResolveRelativeScriptPath(String baseFilePath, String relativePath) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Workspace\WorkspaceService.cs:line 524
+2023-01-18 16:11:04.822 +01:00 [INF] Unable to find PSSA settings file at 'PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-01-18 16:11:04.822 +01:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-01-18 17:00:11.313 +01:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Vistors\AstOperations.cs:line 86
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 205
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 74
+2023-01-18 17:01:32.322 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Alia": Unknown word.
+2023-01-18 17:03:18.382 +01:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Vistors\AstOperations.cs:line 142
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-01-18 17:03:24.432 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-01-18 17:03:26.356 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-01-18 17:04:01.340 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "uuto": Unknown word.
+2023-01-18 17:04:02.866 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "uuto": Unknown word.
+2023-01-18 17:04:03.123 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "uuto": Unknown word.
+2023-01-18 17:04:04.318 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "uuto": Unknown word.
+2023-01-18 17:05:29.345 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-01-18 17:05:30.911 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell The string is missing the terminator: ".
+2023-01-18 17:06:05.924 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "lonf": Unknown word.
+2023-01-18 17:06:08.024 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "lonh": Unknown word.
+2023-01-18 18:35:26.324 +01:00 [WRN] Runtime exception occurred while executing command:
+
+System.Management.Automation.ParseException: At line:7 char:5
++   --name freshrss \
++     ~
+Missing expression after unary operator '--'.
+
+At line:7 char:5
++   --name freshrss \
++     ~~~~
+Unexpected token 'name' in expression or statement.
+   at System.Management.Automation.Runspaces.PipelineBase.Invoke(IEnumerable input)
+   at System.Management.Automation.PowerShell.Worker.ConstructPipelineAndDoWork(Runspace rs, Boolean performSyncInvoke)
+   at System.Management.Automation.PowerShell.Worker.CreateRunspaceIfNeededAndDoWork(Runspace rsToUse, Boolean isSync)
+   at System.Management.Automation.PowerShell.CoreInvokeHelper[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.CoreInvoke[TInput,TOutput](PSDataCollection`1 input, PSDataCollection`1 output, PSInvocationSettings settings)
+   at System.Management.Automation.PowerShell.Invoke[T](IEnumerable input, PSInvocationSettings settings)
+   at Microsoft.PowerShell.EditorServices.Services.PowerShell.Utility.PowerShellExtensions.InvokeAndClear[TResult](PowerShell pwsh, PSInvocationSettings invocationSettings) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\PowerShell\Utility\PowerShellExtensions.cs:line 82
+   at Microsoft.PowerShell.EditorServices.Services.PowerShell.Execution.SynchronousPowerShellTask`1.ExecuteNormally(CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\PowerShell\Execution\SynchronousPowerShellTask.cs:line 187
+2023-01-18 20:25:26.024 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powe": Unknown word.
+2023-01-18 20:25:31.234 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "alnd": Unknown word.
+2023-01-18 20:25:38.287 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "drac": Unknown word.
+2023-01-18 20:25:40.327 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dracla": Unknown word.
+2023-01-18 20:25:40.807 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "dracla": Unknown word.
+2023-01-18 20:25:47.126 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powerline": Unknown word.
+2023-01-18 20:26:13.148 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powersle": Unknown word.
+2023-01-18 20:26:19.663 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powerline": Unknown word.
+2023-01-18 20:26:19.964 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powerline": Unknown word.
+2023-01-18 20:26:32.775 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Powerh": Unknown word.
+2023-01-18 20:26:51.801 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "systemwide": Unknown word.
+2023-01-18 20:26:53.431 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "systemwi": Unknown word.
+2023-01-18 20:26:55.631 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "systemw": Unknown word.
+2023-01-18 20:27:00.985 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "masystem": Unknown word.
+2023-01-18 20:27:01.798 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "mainsystem": Unknown word.
+2023-01-18 20:33:09.014 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing using directive
+2023-01-18 20:33:14.511 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "namespa": Unknown word.
+2023-01-18 20:33:14.776 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "namespa": Unknown word.
+2023-01-18 20:33:15.785 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "namespac": Unknown word.
+2023-01-18 20:33:16.056 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "namespac": Unknown word.
+2023-01-18 20:33:17.874 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing using name
+2023-01-18 20:33:20.237 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Syste": Unknown word.
+2023-01-18 20:33:34.292 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powerline": Unknown word.
+2023-01-18 20:33:34.571 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powerline": Unknown word.
+2023-01-18 20:33:39.524 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powerline": Unknown word.
+2023-01-18 20:46:17.558 +01:00 [WRN] Exception occurred while running handling completion request
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.PowerShell.EditorServices.Services.Symbols.AstOperations.GetCompletionsAsync(Ast scriptAst, Token[] currentTokens, Int32 fileOffset, IInternalPowerShellExecutionService executionService, ILogger logger, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\Symbols\Vistors\AstOperations.cs:line 142
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.GetCompletionsInFileAsync(ScriptFile scriptFile, Int32 lineNumber, Int32 columnNumber, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 257
+   at Microsoft.PowerShell.EditorServices.Handlers.PsesCompletionHandler.Handle(CompletionParams request, CancellationToken cancellationToken) in D:\a\_work\1\s\src\PowerShellEditorServices\Services\TextDocument\Handlers\CompletionHandler.cs:line 91
+2023-01-18 20:46:56.546 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "olor": Unknown word.
+2023-01-18 20:50:15.308 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-01-18 20:50:21.347 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-01-18 20:50:24.589 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-01-18 20:50:24.853 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-01-18 20:50:26.311 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-01-18 21:03:19.155 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powerline": Unknown word.
+2023-01-18 21:03:19.155 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 21:03:19.155 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 21:03:19.155 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 21:03:21.402 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "powerline": Unknown word.
+2023-01-18 21:03:21.403 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 21:03:21.403 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.
+2023-01-18 21:03:21.403 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: cSpell "Readline": Unknown word.

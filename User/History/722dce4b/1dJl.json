@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Om-my-posh",
+			"path": "C:/Users/philip/Om-my-posh"
+		},
+		{
+			"name": "Microsoft VS Code",
+			"path": "C:/Program Files/Microsoft VS Code"
+		},
+		{
+			"name": "Code",
+			"path": "C:/Users/philip/AppData/Roaming/Code"
+		}
+	],
+	"settings": {
+		"swissknife.notesEnabled": true
+	}
+}

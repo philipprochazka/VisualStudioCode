@@ -1,0 +1,9 @@
+2023/04/10-14:57:40.944 a588 Reusing MANIFEST c:\Users\philip\AppData\Roaming\Code\User\workspaceStorage\bf28adbc7a5697c29b0f22e4d1f8ad3f\ms-vscode.js-debug\.profile\Default\Local Storage\leveldb/MANIFEST-000001
+2023/04/10-14:57:40.945 a588 Recovering log #3
+2023/04/10-14:57:40.955 a588 Reusing old log c:\Users\philip\AppData\Roaming\Code\User\workspaceStorage\bf28adbc7a5697c29b0f22e4d1f8ad3f\ms-vscode.js-debug\.profile\Default\Local Storage\leveldb/000003.log 
+2023/04/12-12:43:36.486 9a80 Level-0 table #5: started
+2023/04/12-12:43:36.494 9a80 Level-0 table #5: 13558 bytes OK
+2023/04/12-12:43:36.496 9a80 Delete type=0 #3
+2023/04/20-05:12:07.463 9a80 Level-0 table #7: started
+2023/04/20-05:12:07.472 9a80 Level-0 table #7: 9203 bytes OK
+2023/04/20-05:12:07.474 9a80 Delete type=0 #4

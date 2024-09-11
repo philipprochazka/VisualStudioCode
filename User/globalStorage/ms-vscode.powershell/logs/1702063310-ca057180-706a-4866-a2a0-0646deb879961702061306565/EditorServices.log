@@ -1,0 +1,55 @@
+2023-12-08 20:21:58.300 +01:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-12-08 20:22:08.116 +01:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-12-08 20:22:09.011 +01:00 [INF] Unable to find PSSA settings file at 'c:\Users\philip\AppData\Roaming\Code\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-12-08 20:22:09.014 +01:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-12-08 23:38:17.613 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-12-08 23:38:31.734 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-08 23:38:38.556 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-08 23:38:41.358 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-08 23:38:41.358 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-12-08 23:38:41.775 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-08 23:38:41.775 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-12-09 00:42:20.564 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '\.vscode\extensions\' in expression or statement.
+2023-12-09 00:43:15.532 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-12-09 00:43:23.003 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:43:23.653 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-12-09 00:43:24.286 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:43:32.077 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-12-09 00:43:33.194 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:43:34.136 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:43:35.490 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:43:37.087 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-09 00:43:38.510 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-09 00:43:39.041 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-09 00:43:39.293 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-09 00:43:39.771 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-09 00:43:49.274 +01:00 [ERR] Invalid Range (Parameter 'range')
+2023-12-09 00:43:49.274 +01:00 [ERR] Formatter returned null result
+2023-12-09 00:43:50.420 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-09 00:43:55.402 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:43:55.771 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:43:55.801 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:43:56.681 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-09 00:43:58.403 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-12-09 00:43:59.365 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:44:00.719 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-09 00:44:04.675 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:44:05.096 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-12-09 00:44:05.391 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:44:05.635 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-12-09 00:44:07.168 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:44:07.169 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-12-09 00:44:07.446 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:44:07.446 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-12-09 00:44:10.333 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing ')' in function parameter list.
+2023-12-09 00:44:10.333 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token ')' in expression or statement.
+2023-12-09 00:44:12.553 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-12-09 00:45:33.650 +01:00 [ERR] Invalid Range (Parameter 'range')
+2023-12-09 00:45:33.650 +01:00 [ERR] Formatter returned null result
+2023-12-09 00:47:19.043 +01:00 [ERR] Invalid Range (Parameter 'range')
+2023-12-09 00:47:19.043 +01:00 [ERR] Formatter returned null result
+2023-12-09 00:47:20.059 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-12-09 00:47:21.025 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-12-09 00:47:47.019 +01:00 [ERR] Invalid Range (Parameter 'range')
+2023-12-09 00:47:47.019 +01:00 [ERR] Formatter returned null result
+2023-12-09 00:47:55.634 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.

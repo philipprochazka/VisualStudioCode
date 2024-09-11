@@ -1,0 +1,78 @@
+{
+	"folders": [
+		{
+			"path": "../../../Program Files/PowerShell/7"
+		},
+		{
+			"path": "../../../Program Files/PowerShell"
+		},
+		{
+			"path": "../../../Users/philip/Documents/PowerShell"
+		},
+		{
+			"path": "../../Powershell"
+		},
+		{
+			"path": "../../../Users/philip/AppData/Local/Programs/oh-my-posh/themes"
+		},
+		{
+			"path": "../../../ProgramData/chocolatey"
+		},
+		{
+			"path": "../../../Users/philip/scoop"
+		},
+		{
+			"path": "../../../Users/philip"
+		}
+	],
+	"settings": {
+		"cSpell.enabledLanguageIds": [
+			"asciidoc",
+			"c",
+			"cpp",
+			"csharp",
+			"css",
+			"elixir",
+			"erlang",
+			"git-commit",
+			"go",
+			"graphql",
+			"handlebars",
+			"haskell",
+			"html",
+			"jade",
+			"java",
+			"javascript",
+			"javascriptreact",
+			"json",
+			"jsonc",
+			"jupyter",
+			"latex",
+			"less",
+			"markdown",
+			"php",
+			"plaintext",
+			"python",
+			"pug",
+			"restructuredtext",
+			"rust",
+			"scala",
+			"scss",
+			"scminput",
+			"swift",
+			"text",
+			"typescript",
+			"typescriptreact",
+			"vue",
+			"yaml",
+			"yml",
+			"COBOL",
+			"ACUCOBOL"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"louiswt.regexp-preview"
+		]
+	}
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <meta name    = "viewport" content = "width=device-width, initial-scale=1.0">
+    <title>Email Proforma</title>
+    <style>
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <meta name    = "viewport" content = "width=device-width, initial-scale=1.0">
+    <title>Email Proforma</title>
+    <style>
+        @font-face {
+            font-family: "montserratthin";
+            src        : url('./assets/fonts/montserrat/montserrat-thin-webfont.woff2') format('woff2'),
+                 url('./assets/fonts/montserrat/montserrat-thin-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style : normal;
+        }
+
+        @font-face {
+            font-family: "montserratthin_italic";
+            src        : url('./assets/fonts/montserrat/montserrat-thinitalic-webfont.woff2') format('woff2'),
+                 url('./assets/fonts/montserrat/montserrat-thinitalic-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style : normal;
+        }
+
+        @font-face {
+            font-family: "montserrat_alternatesblack";
+            src: url('./assets/fonts/montserrat/montserratalternates-black-webfont.woff2') format('woff2'),
+                 url('./assets/fonts/montserrat/montserratalternates-black-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+
+          /* Add more @font-face rules for other styles and weights */
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+    <table style = "width: 100%; max-width: 600px; margin: 0 auto; border-collapse: collapse;">
+        <tr>
+            <td style = "background-color: #f0f0f0; padding: 20px; text-align: center;">
+                <h1>Your Company Name</h1>
+            </td>
+        </tr>
+        <tr>
+            <td style = "padding: 20px;">
+                <p>Dear {{recipientName}},</p>
+                <p>This is a sample email proforma. You can customize this template with your specific details and content.</p>
+                <p>Below are some details: </p>
+                <ul>
+                    <li><strong>Invoice Number: </strong> [Your Invoice Number]</li>
+                    <li><strong>Invoice Date  : </strong> [Your Invoice Date]</li>
+                    <li><strong>Due     Date  : </strong> [Your Due Date]</li>
+                    <!-- Add more details as needed -->
+                </ul>
+                <p>If you have any questions or concerns, please feel free to contact us.</p>
+                <p>Thank you for your business!</p>
+                <br>
+                <p>Best regards,<br>Your Name<br>Your Title<br>Your Company</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #f0f0f0; padding: 20px; text-align: center;">
+                <p>&copy; 2023 Your Company. All rights reserved.</p>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>

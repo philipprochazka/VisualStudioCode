@@ -1,0 +1,196 @@
+{
+    "telemetry.machineId": "1f08ac1f7dc1d4e280546393f2c4da82851c6b363dfd5580d300ced22e9c9096",
+    "theme": "vs-dark",
+    "themeBackground": "#282a36",
+    "windowSplash": {
+        "zoomLevel": 2,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#f8f8f2",
+            "background": "#282a36",
+            "editorBackground": "#282a36",
+            "titleBarBackground": "#282a36",
+            "activityBarBackground": "#282a36",
+            "sideBarBackground": "#21222c",
+            "statusBarBackground": "#21222c",
+            "statusBarNoFolderBackground": "#191a21"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 665,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "workspaceIdentifier": {
+                "id": "6660ea97a0e45873aa2cdb05b4c4ca26",
+                "configURIPath": "file:///c%3A/backup/Visual%20studio%20code/Workspaces/VScode.code-workspace"
+            },
+            "backupPath": "C:\\Users\\philip\\AppData\\Roaming\\Code\\Backups\\6660ea97a0e45873aa2cdb05b4c4ca26",
+            "uiState": {
+                "mode": 0,
+                "x": -8,
+                "y": 549,
+                "width": 850,
+                "height": 539
+            }
+        },
+        "openedWindows": [
+            {
+                "workspaceIdentifier": {
+                    "id": "6660ea97a0e45873aa2cdb05b4c4ca26",
+                    "configURIPath": "file:///c%3A/backup/Visual%20studio%20code/Workspaces/VScode.code-workspace"
+                },
+                "backupPath": "C:\\Users\\philip\\AppData\\Roaming\\Code\\Backups\\6660ea97a0e45873aa2cdb05b4c4ca26",
+                "uiState": {
+                    "mode": 0,
+                    "x": -8,
+                    "y": 549,
+                    "width": 850,
+                    "height": 539
+                }
+            },
+            {
+                "folder": "file:///c%3A/Users/philip",
+                "backupPath": "C:\\Users\\philip\\AppData\\Roaming\\Code\\Backups\\b32aec81448c73184d879d1ece372ada",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 549,
+                    "width": 834,
+                    "height": 531
+                }
+            },
+            {
+                "workspaceIdentifier": {
+                    "id": "808f44087d0ee318f29ecef1a58081d2",
+                    "configURIPath": "file:///c%3A/backup/Visual%20studio%20code/Workspaces/Windows.code-workspace"
+                },
+                "backupPath": "C:\\Users\\philip\\AppData\\Roaming\\Code\\Backups\\808f44087d0ee318f29ecef1a58081d2",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 549,
+                    "width": 834,
+                    "height": 531
+                }
+            }
+        ]
+    },
+    "backupWorkspaces": {
+        "workspaces": [
+            {
+                "id": "aca2ddd5b4b02a7bfdfffe683ed91785",
+                "configURIPath": "file:///c%3A/backup/Visual%20studio%20code/Workspaces/VScode%20edit%20and%20config/VScode.code-workspace"
+            },
+            {
+                "id": "69e176fac08abfbe6e35ea6ddd634d18",
+                "configURIPath": "file:///c%3A/backup/Visual%20studio%20code/Workspaces/iconify.code-workspace"
+            },
+            {
+                "id": "6660ea97a0e45873aa2cdb05b4c4ca26",
+                "configURIPath": "file:///c%3A/backup/Visual%20studio%20code/Workspaces/VScode.code-workspace"
+            },
+            {
+                "id": "808f44087d0ee318f29ecef1a58081d2",
+                "configURIPath": "file:///c%3A/backup/Visual%20studio%20code/Workspaces/Windows.code-workspace"
+            }
+        ],
+        "folders": [
+            {
+                "folderUri": "file:///c%3A/Users/philip/source/aimeos"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/source/font/Saira/Saira/fonts/ttf"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/Documents/DGpack"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/source/Hacking%20stuff/tryhackme"
+            },
+            {
+                "folderUri": "file:///c%3A/Program%20Files/Airsonic"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/Norditerm2023"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/Documents/Bugret/Pioneer%20AV-%20Rx-A3030"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/Documents/Bugret"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/Documents/Turbo-Soft%20s.r.o/REFENCNI%20OBRAZKY"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/Documents/PowerShell"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/Documents/PhilipProchazka.cz/DevCard-EN"
+            },
+            {
+                "folderUri": "file://philip-krapkova/Documents/MEDICLEAN"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/Documents/Mediclean-cz"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip"
+            },
+            {
+                "folderUri": "file:///c%3A/backup/source/iconify"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/philip/AppData/Roaming/Microsoft/Windows"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 50,
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///c%3A/Users/philip/Documents/Turbo-Soft%20s.r.o/REFENCNI%20OBRAZKY": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/Turbo-Soft%20s.r.o/REFENCNI%20OBRAZKY/Ref_sada_2": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/PowerShell/Scripts": "__default__profile__",
+            "file:///c%3A/Users/philip/source/font/1-Font%20Foundation%20learning": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/PowerShell": "__default__profile__",
+            "file:///c%3A/Users/philip/source/DRONE-OS": "__default__profile__",
+            "file:///c%3A/Users/philip/source/DRONE-Project": "__default__profile__",
+            "file:///c%3A/Users/philip/source/christitus/winutil/winutil": "__default__profile__",
+            "file:///c%3A/Program%20Files/Nilesoft%20Shell": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/PhilipProchazka.cz/WebResume/Crop_circular_image_on_web": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/PhilipProchazka.cz/WebResume": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/PhilipProchazka.cz/DevCard/devcard": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/PhilipProchazka.cz/DevCard": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/PhilipProchazka.cz/DevCard-EN/DevCardEN.code-workspace": "__default__profile__",
+            "file:///c%3A/Users/philip/source/WebPortfolio/masterPortfolio": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/PhilipProchazka.cz/PHP%2BVue%2BSass": "__default__profile__",
+            "file:///c%3A/Users/Public/Documents/MEDICLEAN/Markdown": "__default__profile__",
+            "file:///c%3A/Users/Public/Documents/MEDICLEAN": "__default__profile__",
+            "file://philip-krapkova/Documents/MEDICLEAN": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/PhilipProchazka.cz/DevCard-EN": "__default__profile__",
+            "file:///c%3A/onedrive/OneDrive%20-%20DOMOV%20PV%2Cs.r.o/Lukas_Novotny": "__default__profile__",
+            "file:///c%3A/Users/philip/source/Atlas": "__default__profile__",
+            "file:///c%3A/Users/philip/source/The-Standard-of-coding-patterns": "__default__profile__",
+            "file:///c%3A/backup/Visual%20studio%20code": "__default__profile__",
+            "file:///c%3A/Users/philip/Om-my-posh": "__default__profile__",
+            "file:///c%3A/backup/Powershell": "__default__profile__",
+            "file:///c%3A/Users/philip/Documents/Mediclean-cz": "__default__profile__",
+            "file:///c%3A/backup/Visual%20studio%20code/Workspaces/VScode%20edit%20and%20config/VScode.code-workspace": "__default__profile__",
+            "file:///c%3A/Users/philip": "__default__profile__",
+            "file:///c%3A/backup/source/iconify": "__default__profile__",
+            "file:///c%3A/Users/philip/AppData/Roaming/Microsoft/Windows": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.sqmId": "{AFE35599-A315-4649-80D7-3D376DAEE55E}"
+}

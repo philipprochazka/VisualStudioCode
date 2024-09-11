@@ -1,0 +1,15 @@
+2023-12-08 19:49:52.848 +01:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-12-08 19:50:06.484 +01:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-12-08 19:50:07.336 +01:00 [INF] Unable to find PSSA settings file at 'c:\Users\philip\AppData\Roaming\Code\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-12-08 19:50:07.339 +01:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-12-08 20:15:11.108 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-08 20:15:14.033 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-12-08 20:21:48.145 +01:00 [FTL] unhandled exception
+OmniSharp.Extensions.JsonRpc.InputProcessingException: There was an error processing input the contents of the buffer were ''
+ ---> System.InvalidOperationException: Reading is not allowed after reader was completed.
+   at System.IO.Pipelines.ThrowHelper.ThrowInvalidOperationException_NoReadingAllowed()
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.ProcessInputStream(CancellationToken cancellationToken)
+   at OmniSharp.Extensions.JsonRpc.InputHandler.<Start>b__26_0()

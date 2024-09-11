@@ -1,0 +1,30 @@
+{
+    "cSpell.language": "en,cs,lorem,en-GB",
+    "cSpell.enableFiletypes": [
+        "!c",
+        "!cpp",
+        "!csharp",
+        "!elixir",
+        "!erlang",
+        "!go",
+        "!graphql",
+        "!handlebars",
+        "!haskell",
+        "!jade",
+        "!java",
+        "!javascriptreact",
+        "!jupyter",
+        "!latex",
+        "!less",
+        "!php",
+        "!pug",
+        "!rust",
+        "!scala",
+        "!scminput",
+        "!typescript",
+        "!typescriptreact",
+        "!vue",
+        "properties",
+        "svg"
+    ]
+}

@@ -1,0 +1,52 @@
+my-project/
+├── app/
+│   ├── Http/
+│   │   ├── Controllers/
+│   │   ├── Middleware/
+│   │   ├── ...
+│   ├── Providers/
+│   ├── ...
+├── bootstrap/
+├── config/
+├── database/
+├── public/
+│   ├── css/
+│   ├── js/
+│   ├── img/
+│   ├── ...
+├── resources/
+│   ├── js/
+│   │   ├── components/
+│   │   ├── views/
+│   │   ├── app.js
+│   ├── scss/
+│   │   ├── base/
+│   │   ├── components/
+│   │   ├── layouts/
+│   │   ├── pages/
+│   │   ├── utilities/bootstrap
+│   │   ├── utilities
+│   │   │   ├── fontawesome
+
+│   │   ├── bootstrap/
+│   │   └── fontawesome
+│   │   ├── styles.scss
+│   ├── views/
+│   ├── language/
+│   │   ├── vendor/
+│   │   │   ├── bootstrap/
+│   │   │   ├── fontawesome/
+│   │   ├── ...
+│   ├── ...
+├── routes/
+├── storage/
+├── tests/
+├── vendor/
+├── .env
+├── .env.example
+├── .gitignore
+├── composer.json
+├── composer.lock
+├── package.json
+├── webpack.mix.js
+└── README.md

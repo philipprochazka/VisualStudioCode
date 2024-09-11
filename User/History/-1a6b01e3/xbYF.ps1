@@ -1,0 +1,1 @@
+Start-Process -FilePath "C:\Users\philip\Documents\Templates Drawing & VsCode"

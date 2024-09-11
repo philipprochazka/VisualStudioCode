@@ -1,0 +1,4 @@
+2023-12-07 10:26:07.332 +01:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-12-07 10:26:20.403 +01:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-12-07 10:26:21.293 +01:00 [INF] Unable to find PSSA settings file at 'c:\Users\philip\Documents\Mediclean-cz\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-12-07 10:26:21.296 +01:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules

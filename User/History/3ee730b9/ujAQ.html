@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+Doctrine\DBAL\Exception\ConnectionException: An exception occurred in the driver: SQLSTATE[HY000] [1045] Access denied for user 'for>
+
+#0 /var/www/myshop/vendor/doctrine/dbal/src/Connection.php(1907): Doctrine\DBAL\Driver\API\MySQL\ExceptionConverter-&gt;convert()
+#1 /var/www/myshop/vendor/doctrine/dbal/src/Connection.php(1856): Doctrine\DBAL\Connection-&gt;handleDriverException()
+#2 /var/www/myshop/vendor/doctrine/dbal/src/Connection.php(347): Doctrine\DBAL\Connection-&gt;convertException()
+#3 /var/www/myshop/vendor/doctrine/dbal/src/Connection.php(1618): Doctrine\DBAL\Connection-&gt;connect()
+#4 /var/www/myshop/vendor/doctrine/dbal/src/Connection.php(829): Doctrine\DBAL\Connection-&gt;getWrappedConnection()
+#5 /var/www/myshop/vendor/aimeos/aimeos-base/src/DB/Connection/Base.php(52): Doctrine\DBAL\Connection-&gt;quote()
+#6 /var/www/myshop/vendor/aimeos/aimeos-base/src/Criteria/Expression/Compare/SQL.php(186): Aimeos\Base\DB\Connection\Base-&gt;escape>#7 /var/www/myshop/vendor/aimeos/aimeos-base/src/Criteria/Expression/Compare/SQL.php(77): Aimeos\Base\Criteria\Expression\Compare\SQ>#8 /var/www/myshop/vendor/aimeos/aimeos-base/src/Criteria/Expression/Compare/Base.php(130): Aimeos\Base\Criteria\Expression\Compare\>#9 /var/www/myshop/vendor/aimeos/aimeos-base/src/Criteria/Expression/Combine/SQL.php(71): Aimeos\Base\Criteria\Expression\Compare\Ba>#10 /var/www/myshop/vendor/aimeos/aimeos-base/src/Criteria/SQL.php(128): Aimeos\Base\Criteria\Expression\Combine\SQL-&gt;toSource()
+#11 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Locale/Manager/Site/Standard.php(637): Aimeos\Base\Criteria\SQL-&gt;getCondi>#12 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Depth.php(59): Aimeos\MShop\Locale\Manager\Site\Sta>#13 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Lazy.php(38): Aimeos\MShop\Common\Manager\Decorator>#14 /var/www/myshop/vendor/aimeos/map/src/Map.php(5227): Aimeos\MShop\Common\Manager\Decorator\Lazy-&gt;Aimeos\MShop\Common\Manager\>#15 /var/www/myshop/vendor/aimeos/map/src/Map.php(5290): Aimeos\Map-&gt;array()
+#16 /var/www/myshop/vendor/aimeos/map/src/Map.php(1483): Aimeos\Map-&gt;list()
+#17 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Base.php(587): Aimeos\Map-&gt;first()
+#18 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Locale/Manager/Site/Standard.php(420): Aimeos\MShop\Common\Manager\Base-&gt;>#19 [internal function]: Aimeos\MShop\Locale\Manager\Site\Standard-&gt;find()
+#20 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Base.php(51): call_user_func_array()
+#21 [internal function]: Aimeos\MShop\Common\Manager\Decorator\Base-&gt;__call()
+#22 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Base.php(51): call_user_func_array()
+#23 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Locale/Manager/Standard.php(236): Aimeos\MShop\Common\Manager\Decorator\Base>#24 [internal function]: Aimeos\MShop\Locale\Manager\Standard-&gt;bootstrap()
+#25 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Base.php(51): call_user_func_array()
+#26 [internal function]: Aimeos\MShop\Common\Manager\Decorator\Base-&gt;__call()
+#27 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Base.php(51): call_user_func_array()
+#28 /var/www/myshop/vendor/aimeos/aimeos-laravel/src/Aimeos/Shop/Base/Locale.php(75): Aimeos\MShop\Common\Manager\Decorator\Base-&gt>#29 /var/www/myshop/vendor/aimeos/aimeos-laravel/src/Aimeos/Shop/Base/Context.php(105): Aimeos\Shop\Base\Locale-&gt;get()
+#30 /var/www/myshop/vendor/aimeos/aimeos-laravel/src/Aimeos/Shop/Base/Shop.php(47): Aimeos\Shop\Base\Context-&gt;get()
+#31 /var/www/myshop/vendor/aimeos/aimeos-laravel/src/Aimeos/Shop/ShopServiceProvider.php(114): Aimeos\Shop\Base\Shop-&gt;__construct>#32 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Aimeos\Shop\ShopServiceProvider-&gt;Aimeos>#33 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container-&gt;build()
+#34 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container-&gt;reso>#35 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application-&gt;reso>#36 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container-&gt;make>#37 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Container/Container.php(1431): Illuminate\Foundation\Application-&gt;mak>#38 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(222): Illuminate\Container\Container-&gt;offs>#39 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(193): Illuminate\Support\Facades\Facade::reso>#40 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(332): Illuminate\Support\Facades\Facade::getF>#41 /var/www/myshop/vendor/aimeos/aimeos-laravel/src/Aimeos/Shop/Controller/CatalogController.php(86): Illuminate\Support\Facades\Fa>#42 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): Aimeos\Shop\Controller\CatalogController-&gt>#43 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(43): Illuminate\Routing\Controller-&gt;>#44 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Routing/Route.php(260): Illuminate\Routing\ControllerDispatcher-&gt;disp>#45 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Routing/Route.php(205): Illuminate\Routing\Route-&gt;runController()
+#46 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Routing/Router.php(798): Illuminate\Routing\Route-&gt;run()
+#47 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(141): Illuminate\Routing\Router-&gt;Illuminate\Rou>#48 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(50): Illuminate\Pipeline\Pipel>#49 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Routing\Middleware\SubstituteBind>#50 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(78): Illuminate\Pipeline\>#51 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Foundation\Http\Middleware\Verify>#52 /var/www/myshop/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Pipeline\Pipe>#53 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\View\Middleware\ShareErrorsFromSe>#54 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(121): Illuminate\Pipeline\Pipeline-&>#55 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Session\Middleware\
+#56 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Session\Middleware\StartSession-&>#57 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Pipelin>#58 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Cookie\Middleware\AddQueuedCookie>#59 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(67): Illuminate\Pipeline\Pipeline-&>#60 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Cookie\Middleware\EncryptCookies->#61 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(116): Illuminate\Pipeline\Pipeline-&gt;Illuminate\>#62 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Routing/Router.php(799): Illuminate\Pipeline\Pipeline-&gt;then()
+#63 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Routing/Router.php(776): Illuminate\Routing\Router-&gt;runRouteWithinSta>#64 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Routing/Router.php(740): Illuminate\Routing\Router-&gt;runRoute()
+#65 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Routing/Router.php(729): Illuminate\Routing\Router-&gt;dispatchToRoute()
+#66 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(190): Illuminate\Routing\Router-&gt;dispatch()#67 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(141): Illuminate\Foundation\Http\Kernel-&gt;Illumi>#68 /var/www/myshop/app/Http/Middleware/SetLocale.php(25): Illuminate\Pipeline\Pipeline-&gt;Illuminate\Pipeline\{closure}()
+#69 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): App\Http\Middleware\SetLocale-&gt;handle()
+#70 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipelin>#71 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php(31): Illuminate>#72 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Foundation\Http\Middleware\Conver>#73 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\Pipelin>#74 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php(40): Illuminate\Foundation\Ht>#75 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Foundation\Http\Middleware\TrimSt>#76 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Pipeline>#77 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Foundation\Http\Middleware\Valida>#78 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php(86): Ill>#79 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Foundation\Http\Middleware\Preven>#80 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php(49): Illuminate\Pipeline\Pipeline-&gt;Ill>#81 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Http\Middleware\HandleCors-&gt;ha>#82 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php(39): Illuminate\Pipeline\Pipeline-&gt;I>#83 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate\Http\Middleware\TrustProxies-&gt;>#84 /var/www/myshop/app/Http/Middleware/TrustHosts.php(24): Illuminate\Pipeline\Pipeline-&gt;Illuminate\Pipeline\{closure}()
+#85 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): App\Http\Middleware\TrustHosts-&gt;handle()
+#86 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(116): Illuminate\Pipeline\Pipeline-&gt;Illuminate\>#87 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(165): Illuminate\Pipeline\Pipeline-&gt;then()
+#88 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(134): Illuminate\Foundation\Http\Kernel-&gt;s>#89 /var/www/myshop/public/index.php(52): Illuminate\Foundation\Http\Kernel-&gt;handle()
+#90 /var/www/myshop/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php(16): require_once('/var/www/myshop...')
+#91 {main}
+-->
+<head>
+    <!-- Hide dumps asap -->
+    <style>
+        pre.sf-dump {
+            display: none !important;
+        }
+    </style>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="robots" content="noindex, nofollow">
+
+    <title>An exception occurred in the driver: SQLSTATE[HY000] [1045] Access denied for user 'forge'@'localhost' (using password: N>
+
+    <script>
+        // Livewire modals remove CSS classes on the `html` element so we re-add
+        // the theme class again using JavaScript.
+        document.documentElement.classList.add('auto');
+
+        // Process `auto` theme as soon as possible to avoid flashing of white background.
+        if (document.documentElement.classList.contains('auto') && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            document.documentElement.classList.add('dark');
+        }
+    </script>
+
+    <style>/*
+! tailwindcss v3.0.15 | MIT License | https://tailwindcss.com
+*/*,:after,:before{box-sizing:border-box;border:0 solid #e5e7eb}:after,:before{--tw-content:""}html{line-height:1.5;-webkit-text-siz>
+
+
+</head>
+<body class="scrollbar-lg">
+
+<script>
+    window.data = {"report":{"notifier":"Laravel Client","language":"PHP","framework_version":"9.50.1","language_version":"8.0.27","></script>
+
+<!-- The noscript representation is for HTTP client like Postman that have JS disabled. -->
+<noscript>
+    <pre>Doctrine\DBAL\Exception\ConnectionException: An exception occurred in the driver: SQLSTATE[HY000] [1045] Access denied for >
+
+#0 /var/www/myshop/vendor/doctrine/dbal/src/Connection.php(1907): Doctrine\DBAL\Driver\API\MySQL\ExceptionConverter-&gt;convert()
+#1 /var/www/myshop/vendor/doctrine/dbal/src/Connection.php(1856): Doctrine\DBAL\Connection-&gt;handleDriverException()
+#2 /var/www/myshop/vendor/doctrine/dbal/src/Connection.php(347): Doctrine\DBAL\Connection-&gt;convertException()
+#3 /var/www/myshop/vendor/doctrine/dbal/src/Connection.php(1618): Doctrine\DBAL\Connection-&gt;connect()
+#4 /var/www/myshop/vendor/doctrine/dbal/src/Connection.php(829): Doctrine\DBAL\Connection-&gt;getWrappedConnection()
+#5 /var/www/myshop/vendor/aimeos/aimeos-base/src/DB/Connection/Base.php(52): Doctrine\DBAL\Connection-&gt;quote()
+#6 /var/www/myshop/vendor/aimeos/aimeos-base/src/Criteria/Expression/Compare/SQL.php(186): Aimeos\Base\DB\Connection\Base-&gt;escape>#7 /var/www/myshop/vendor/aimeos/aimeos-base/src/Criteria/Expression/Compare/SQL.php(77): Aimeos\Base\Criteria\Expression\Compare\SQ>#8 /var/www/myshop/vendor/aimeos/aimeos-base/src/Criteria/Expression/Compare/Base.php(130): Aimeos\Base\Criteria\Expression\Compare\>#9 /var/www/myshop/vendor/aimeos/aimeos-base/src/Criteria/Expression/Combine/SQL.php(71): Aimeos\Base\Criteria\Expression\Compare\Ba>#10 /var/www/myshop/vendor/aimeos/aimeos-base/src/Criteria/SQL.php(128): Aimeos\Base\Criteria\Expression\Combine\SQL-&gt;toSource()
+#11 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Locale/Manager/Site/Standard.php(637): Aimeos\Base\Criteria\SQL-&gt;getCondi>#12 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Depth.php(59): Aimeos\MShop\Locale\Manager\Site\Sta>#13 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Lazy.php(38): Aimeos\MShop\Common\Manager\Decorator>#14 /var/www/myshop/vendor/aimeos/map/src/Map.php(5227): Aimeos\MShop\Common\Manager\Decorator\Lazy-&gt;Aimeos\MShop\Common\Manager\>#15 /var/www/myshop/vendor/aimeos/map/src/Map.php(5290): Aimeos\Map-&gt;array()
+#16 /var/www/myshop/vendor/aimeos/map/src/Map.php(1483): Aimeos\Map-&gt;list()
+#17 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Base.php(587): Aimeos\Map-&gt;first()
+#18 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Locale/Manager/Site/Standard.php(420): Aimeos\MShop\Common\Manager\Base-&gt;>#19 [internal function]: Aimeos\MShop\Locale\Manager\Site\Standard-&gt;find()
+#20 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Base.php(51): call_user_func_array()
+#21 [internal function]: Aimeos\MShop\Common\Manager\Decorator\Base-&gt;__call()
+#22 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Base.php(51): call_user_func_array()
+#23 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Locale/Manager/Standard.php(236): Aimeos\MShop\Common\Manager\Decorator\Base>#24 [internal function]: Aimeos\MShop\Locale\Manager\Standard-&gt;bootstrap()
+#25 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Base.php(51): call_user_func_array()
+#26 [internal function]: Aimeos\MShop\Common\Manager\Decorator\Base-&gt;__call()
+#27 /var/www/myshop/vendor/aimeos/aimeos-core/src/MShop/Common/Manager/Decorator/Base.php(51): call_user_func_array()
+#28 /var/www/myshop/vendor/aimeos/aimeos-laravel/src/Aimeos/Shop/Base/Locale.php(75): Aimeos\MShop\Common\Manager\Decorator\Base-&gt>
+
+
+
+a pokračuje takže jede

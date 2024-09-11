@@ -1,0 +1,25 @@
+9. 2. 2023 7:42:32 [NORMAL] - Visual Studio Code v1.74.3 64-bit
+9. 2. 2023 7:42:32 [NORMAL] - Language server starting --
+9. 2. 2023 7:42:32 [NORMAL] -     PowerShell executable: C:\Program Files\PowerShell\7\pwsh.exe
+9. 2. 2023 7:42:32 [NORMAL] - PowerShell Extension v2023.1.0
+9. 2. 2023 7:42:32 [NORMAL] - Operating System: Windows 64-bit
+9. 2. 2023 7:42:32 [NORMAL] -     PowerShell args: -NoProfile -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\philip\.vscode\extensions\ms-vscode.powershell-2023.1.0\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2023.1.0' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\philip\.vscode\extensions\ms-vscode.powershell-2023.1.0\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2023.1.0
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Normal' -LogPath 'c:\Users\philip\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\logs\1675924952-e20ed18c-acad-41af-85f1-9a885d7f3bd01675924943958\EditorServices.log' -SessionDetailsPath 'c:\Users\philip\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-14768-686496.json' -FeatureFlags @() 
+9. 2. 2023 7:42:32 [NORMAL] -     PowerShell Editor Services args: Import-Module 'c:\Users\philip\.vscode\extensions\ms-vscode.powershell-2023.1.0\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2023.1.0' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\philip\.vscode\extensions\ms-vscode.powershell-2023.1.0\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2023.1.0
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Normal' -LogPath 'c:\Users\philip\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\logs\1675924952-e20ed18c-acad-41af-85f1-9a885d7f3bd01675924943958\EditorServices.log' -SessionDetailsPath 'c:\Users\philip\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-14768-686496.json' -FeatureFlags @() 
+9. 2. 2023 7:42:32 [NORMAL] - pwsh.exe started.
+9. 2. 2023 7:42:32 [NORMAL] - Waiting for session file...
+9. 2. 2023 7:42:36 [NORMAL] - Session file found!
+9. 2. 2023 7:42:36 [NORMAL] - pwsh.exe PID: 13632
+9. 2. 2023 7:42:36 [NORMAL] - Language server started.
+9. 2. 2023 7:42:36 [NORMAL] - Connecting to language service on pipe: \\.\pipe\PSES_u3et2jbt.45t
+9. 2. 2023 7:42:36 [NORMAL] - Session details: {"status":"started","languageServiceTransport":"NamedPipe","languageServicePipeName":"\\\\.\\pipe\\PSES_u3et2jbt.45t","debugServiceTransport":"NamedPipe","debugServicePipeName":"\\\\.\\pipe\\PSES_kc4jj30s.aoj"}
+9. 2. 2023 7:42:36 [NORMAL] - Language service socket connected.

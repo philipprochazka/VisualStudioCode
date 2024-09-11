@@ -1,0 +1,210 @@
+{
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb",
+        "*.nupkg": "default",
+        "*.jpg"  : "imagePreview.previewEditor"
+    },
+    "python.defaultInterpreterPath": "C:\\Python310\\python.exe",
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
+    "explorer.confirmDragAndDrop": false,
+    "editor.renderControlCharacters": true,
+    "cSpell.language": "en,lorem,en-GB,en-US",
+    "security.workspace.trust.untrustedFiles": "open",
+    "code-runner.defaultLanguage": "php",
+    "code-runner.cwd": "code-runner.fileDirectoryAsCwd",
+    "json.maxItemsComputed": 200000,
+    "sqltools.formatLanguages": [
+        "sql",
+        "mySQL"
+    ],
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "cSpell.enableFiletypes": [
+        "asciidoc",
+			"c",
+			"cpp",
+			"csharp",
+			"css",
+			"elixir",
+			"erlang",
+			"git-commit",
+			"go",
+			"graphql",
+			"handlebars",
+			"haskell",
+			"html",
+			"jade",
+			"java",
+			"javascript",
+			"javascriptreact",
+			"json",
+			"jsonc",
+			"jupyter",
+			"latex",
+			"less",
+			"markdown",
+			"php",
+			"plaintext",
+			"python",
+			"pug",
+			"restructuredtext",
+			"rust",
+			"scala",
+			"scss",
+			"scminput",
+			"swift",
+			"text",
+			"typescript",
+			"typescriptreact",
+			"vue",
+			"yaml",
+			"yml",
+			"COBOL",
+			"ACUCOBOL"
+    ],
+    "sass.format.debug": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "remote.downloadExtensionsLocally": true,
+    "[xml]": {
+        "editor.defaultFormatter": "svipas.prettier-plus"
+    },
+    "editor.accessibilitySupport": "off",
+    "cSpell.userWords": [
+        "Norditerm",
+        "widgety"
+    ],
+    "workbench.colorTheme": "Dracula Refined",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.persistentSessionScrollback": 1000,
+    "terminal.integrated.scrollback": 10000,
+    "terminal.integrated.shellIntegration.history": 1000,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.fontFamily": "SauceCodePro NFM",
+    "terminal.integrated.fontSize": 13,
+    "window.zoomLevel": 2,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "bookmarks.label.suggestion": "suggestWhenSelectedOrLineWhenNoSelected",
+    "powershell.codeFormatting.trimWhitespaceAroundPipe": true,
+    "powershell.codeFormatting.useConstantStrings": true,
+    "powershell.codeFormatting.useCorrectCasing": true,
+    "powershell.codeFormatting.whitespaceBetweenParameters": true,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "PowerShell-edit": {
+            "path": "C:\\Program Files\\PowerShell\\7\\pwsh.exe"
+        }
+    },
+    "terminal.integrated.cursorWidth": 3,
+    "terminal.integrated.defaultProfile.linux": "",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.foldingImportsByDefault": true,
+    "editor.colorDecoratorsLimit": 5000,
+    "[css]": {
+        "editor.defaultFormatter": "svipas.prettier-plus"
+    },
+    "livePreview.showServerStatusNotifications": true,
+    "livePreview.tasks.runTaskWithExternalPreview": true,
+    "livePreview.debugOnExternalPreview": true,
+    "livePreview.openPreviewTarget": "External Browser",
+    "search.showLineNumbers": true,
+    "search.mode": "reuseEditor",
+    "search.defaultViewMode": "tree",
+    "[html]": {
+        "editor.defaultFormatter": "svipas.prettier-plus"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "svipas.prettier-plus"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "svipas.prettier-plus"
+    },
+    "security.allowedUNCHosts": [
+        "PHILIP-KRAPKOVA"
+    ],
+    "super-figure.vectorFigureEditor": "C:/Program Files/Inkscape/bin/inkscape.exe",
+    "super-figure.bitmapFigureEditor": "C:/Program Files/GIMP 2/bin/gimp-2.10.exe",
+    "cSpell.customDictionaries": {
+        "custom-dictionary-user": {
+            "name": "custom-dictionary-user",
+            "path": "~/.cspell/custom-dictionary-user.txt",
+            "addWords": true,
+            "scope": "user"
+        }
+    },
+    "markdown-image.local.referencePath": "/images",
+    "markdown.copyFiles.destination": {
+        "${documentDirName}": "Readme"
+    },
+    "workbench.sideBar.location": "right",
+    "workbench.tips.enabled": false,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.commandPalette.experimental.suggestCommands": true,
+    "swissknife": {
+        "swissknife.notesEnabled": true,
+        "workbench.settings.applyToAllProfiles": [
+        
+            "swissknife.notesEnabled"
+        ]
+    },
+    
+    
+    "workbench.activityBar.location"             : "top",
+    "betterAlign.alignAfterTypeEnter"            : true,
+    "vsintellicode.features.python.deepLearning" : "enabled",
+    "vsintellicode.modelDownloadPath"            : "C:/backup/Visual studio code/Intellicode",
+    "vsintellicode.sql.completionsEnabled"       : true,
+    "vsintellicode.java.completionsEnabled"      : true,
+    "vsintellicode.typescript.completionsEnabled": true,
+    "vsintellicode.python.completionsEnabled": true,
+    "workspaceExplorer.workspaceStorageDirectory": "C:\\backup\\Visual studio code\\Workspaces",
+    "workbench.settings.applyToAllProfiles": [
+        "workspaceExplorer.workspaceStorageDirectory"
+    ],
+    "folder-indexing.exclude": [
+        "*\\bin\\*",
+        "*\\obj\\*",
+        "*\\.svn\\*",
+        "*\\.git\\*",
+        "*\\.gitignore\\*",
+        "*\\.dwg\\*",
+        "*\\.ai\\*",
+        "*\\.CR2\\*",
+
+        "*.dll",
+        "*.exe"
+    ],
+    "folder-indexing.searchResultMaxSize": [
+        100000
+    ],
+    "artisan.location"        : "",
+    "virustotal.database_path": "c:\\backup\\Visual studio code\\extensions\\VirusTotal\\cacheDababase",
+    "virustotal.shared_folder": "C:\\backup\\Visual studio code\\extensions\\VirusTotal\\VscodeVirusTotal-SharedFolder",
+    "virustotal.api_key"      : "8c58a182b115fb56cbb893b259a6987cede9f9550c2fa4250a3903946f7085e3",
+
+}

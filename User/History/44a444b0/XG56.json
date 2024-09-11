@@ -1,0 +1,77 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+alt+numpad_multiply",
+        "command": "bookmarks.selectLines"
+    },
+    {
+        "key": "shift+numpad_multiply",
+        "command": "bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+k",
+        "command": "-bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+c z",
+        "command": "cSpellExt_czech.enableCzech"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad1",
+        "command": "-artisan.make.command"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad2",
+        "command": "-artisan.make.controller"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad3",
+        "command": "-artisan.make.event"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad4",
+        "command": "-artisan.make.job"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad5",
+        "command": "-artisan.make.listener"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad6",
+        "command": "-artisan.make.mail"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad7",
+        "command": "-artisan.make.middleware"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad8",
+        "command": "-artisan.make.migration"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad9",
+        "command": "-artisan.make.model"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad0",
+        "command": "-artisan.make.notification"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad_divide",
+        "command": "-artisan.make.policy"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad_multiply",
+        "command": "-artisan.make.provider"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad_subtract",
+        "command": "-artisan.make.request"
+    },
+    {
+        "key": "ctrl+numpad1 ctrl+numpad_add",
+        "command": "-artisan.make.seeder"
+    }
+]

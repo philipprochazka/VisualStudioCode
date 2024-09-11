@@ -1,0 +1,87 @@
+// Mixin to center an element both horizontally and vertically
+@mixin center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// Mixin to add a black and yellow background gradient
+@mixin bg-gradient {
+  background: linear-gradient(to bottom right, black, yellow);
+}
+@mixin cell-bg-color {
+  background-color: transparent;
+}
+
+header {
+  @include bg-gradient;
+
+  img {
+    width: 100px;
+    height: 100px;
+  }
+
+  nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+  }
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  section:first-of-type {
+    @include center;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  section:last-of-type {
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+footer {
+  @include bg-gradient;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+// Import the table styles from table.scss
+@import 'table';
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+// Override the background color of the table cells
+.item-table td {
+  @include cell-bg-color(transparent);
+}
+
+  div {
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+  }
+  div {
+    @include bg-gradient;
+    background-size: 150%;
+    background-position: calc(50% - 20%) 50%;
+    background-repeat: no-repeat;
+  }
+}

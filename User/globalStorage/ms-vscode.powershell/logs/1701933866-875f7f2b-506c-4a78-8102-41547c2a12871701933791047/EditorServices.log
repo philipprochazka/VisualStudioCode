@@ -1,0 +1,13 @@
+2023-12-07 08:24:28.935 +01:00 [INF] ReadLine overridden with 'Microsoft.PowerShell.EditorServices.Services.PowerShell.Console.PsrlReadLine'
+2023-12-07 08:24:42.481 +01:00 [WRN] No ConfigurationItems have been defined, configuration won't surface any configuration from the client!
+2023-12-07 08:24:42.681 +01:00 [INF] Unable to find PSSA settings file at 'c:\Users\philip\Documents\Mediclean-cz\PSScriptAnalyzerSettings.psd1'. Loading default rules.
+2023-12-07 08:24:42.684 +01:00 [INF] PSScriptAnalyzer settings file not found. Falling back to default rules
+2023-12-07 09:18:54.331 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-12-07 09:18:54.895 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-12-07 09:20:30.059 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Missing closing '}' in statement block or type definition.
+2023-12-07 09:20:55.468 +01:00 [ERR] Invalid Range (Parameter 'range')
+2023-12-07 09:20:55.468 +01:00 [ERR] Formatter returned null result
+2023-12-07 09:30:09.067 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-07 09:30:16.980 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-07 09:30:18.863 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.
+2023-12-07 09:30:19.905 +01:00 [WRN] textDocument/codeAction skipping diagnostic with empty Code field: PowerShell Unexpected token '}' in expression or statement.

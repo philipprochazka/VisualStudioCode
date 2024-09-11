@@ -1,0 +1,53 @@
+// Define a mixin for setting the background color of the table cells
+@mixin cell-bg-color($color) {
+    background-color: $color;
+  }
+  
+  // Define a mixin for setting the font size and color of the table titles
+  @mixin title-style($size, $color) {
+    font-size: $size;
+    color: $color;
+  }
+  
+  // Define a mixin for setting the font size and color of the table descriptions
+  @mixin description-style($size, $color) {
+    font-size: $size;
+    color: $color;
+  }
+  
+  // Define the styles for the table and its cells
+  .item-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .item-table td {
+    padding: 10px;
+    border: none;
+  
+    // Use the cell-bg-color mixin to set the background color of the cells
+    @include cell-bg-color(#f8f8f8);
+  }
+  
+  // Define the styles for the left column cells
+  .left-column {
+    width: 100px;
+  }
+  
+  // Define the styles for the right column cells
+  .right-column {
+    vertical-align: top;
+  
+    // Use the title-style mixin to set the font size and color of the titles
+    h2 {
+      @include title-style(18px, #333);
+      margin-top: 0;
+    }
+  
+    // Use the description-style mixin to set the font size and color of the descriptions
+    p {
+      @include description-style(14px, #666);
+      margin: 10px 0;
+    }
+  }
+  

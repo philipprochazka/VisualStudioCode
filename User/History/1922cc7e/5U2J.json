@@ -1,0 +1,24 @@
+{
+    "cSpell.language": "en,lorem,en-GB,en-US",
+    "cSpell.enableFiletypes": [
+       
+        "!jupyter",
+        "!latex",
+        "!less",
+        "!php",
+        "!pug",
+        "!rust",
+        "!scala",
+        "!scminput",
+        "!typescript",
+        "!typescriptreact",
+        "!vue",
+        "ahk2",
+        "bat",
+        "code-runner-output",
+        "code-text-binary",
+        "csv",
+        "properties",
+        "svg"
+    ]
+}

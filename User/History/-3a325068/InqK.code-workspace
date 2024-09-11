@@ -1,0 +1,66 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/philip/Om-my-posh"
+		},
+		{
+			"path": "../../../Program Files/Microsoft VS Code"
+		},
+		{
+			"path": "../../../Users/philip/AppData/Roaming/Code"
+		},
+		{
+			"path": "../../../Users/philip"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"swissknife.notesEnabled": true,
+		"cSpell.enabledLanguageIds": [
+			"asciidoc",
+			"c",
+			"cpp",
+			"csharp",
+			"css",
+			"elixir",
+			"erlang",
+			"git-commit",
+			"go",
+			"graphql",
+			"handlebars",
+			"haskell",
+			"html",
+			"jade",
+			"java",
+			"javascript",
+			"javascriptreact",
+			"json",
+			"jsonc",
+			"jupyter",
+			"latex",
+			"less",
+			"markdown",
+			"php",
+			"plaintext",
+			"python",
+			"pug",
+			"restructuredtext",
+			"rust",
+			"scala",
+			"scss",
+			"scminput",
+			"swift",
+			"text",
+			"typescript",
+			"typescriptreact",
+			"vue",
+			"yaml",
+			"yml",
+			"COBOL",
+			"ACUCOBOL"
+		],
+		"powershell.cwd": "Code"
+	}
+}

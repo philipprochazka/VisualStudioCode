@@ -1,0 +1,493 @@
+Folder PATH listing
+Volume serial number is A0EE-0AF2
+C:.
+│   .babelrc.js
+│   .browserslistrc
+│   .bundlewatch.config.json
+│   .editorconfig
+│   .eslintignore
+│   .eslintrc.json
+│   .stylelintignore
+│   .stylelintrc
+│   CODE_OF_CONDUCT.md
+│   composer.json
+│   config.yml
+│   LICENSE
+│   package-lock.json
+│   package.js
+│   package.json
+│   README.md
+│   SECURITY.md
+│   tree.log
+│   
+├───build
+│       .eslintrc.json
+│       banner.js
+│       build-plugins.js
+│       change-version.js
+│       generate-sri.js
+│       postcss.config.js
+│       rollup.config.js
+│       svgo.yml
+│       vnu-jar.js
+│       zip-examples.js
+│       
+├───dist
+│   ├───css
+│   │       bootstrap-grid.css
+│   │       bootstrap-grid.css.map
+│   │       bootstrap-grid.min.css
+│   │       bootstrap-grid.min.css.map
+│   │       bootstrap-grid.rtl.css
+│   │       bootstrap-grid.rtl.css.map
+│   │       bootstrap-grid.rtl.min.css
+│   │       bootstrap-grid.rtl.min.css.map
+│   │       bootstrap-reboot.css
+│   │       bootstrap-reboot.css.map
+│   │       bootstrap-reboot.min.css
+│   │       bootstrap-reboot.min.css.map
+│   │       bootstrap-reboot.rtl.css
+│   │       bootstrap-reboot.rtl.css.map
+│   │       bootstrap-reboot.rtl.min.css
+│   │       bootstrap-reboot.rtl.min.css.map
+│   │       bootstrap-utilities.css
+│   │       bootstrap-utilities.css.map
+│   │       bootstrap-utilities.min.css
+│   │       bootstrap-utilities.min.css.map
+│   │       bootstrap-utilities.rtl.css
+│   │       bootstrap-utilities.rtl.css.map
+│   │       bootstrap-utilities.rtl.min.css
+│   │       bootstrap-utilities.rtl.min.css.map
+│   │       bootstrap.css
+│   │       bootstrap.css.map
+│   │       bootstrap.min.css
+│   │       bootstrap.min.css.map
+│   │       bootstrap.rtl.css
+│   │       bootstrap.rtl.css.map
+│   │       bootstrap.rtl.min.css
+│   │       bootstrap.rtl.min.css.map
+│   │       
+│   └───js
+│           bootstrap.bundle.js
+│           bootstrap.bundle.js.map
+│           bootstrap.bundle.min.js
+│           bootstrap.bundle.min.js.map
+│           bootstrap.esm.js
+│           bootstrap.esm.js.map
+│           bootstrap.esm.min.js
+│           bootstrap.esm.min.js.map
+│           bootstrap.js
+│           bootstrap.js.map
+│           bootstrap.min.js
+│           bootstrap.min.js.map
+│           
+├───js
+│   │   index.esm.js
+│   │   index.umd.js
+│   │   
+│   ├───dist
+│   │   │   alert.js
+│   │   │   alert.js.map
+│   │   │   base-component.js
+│   │   │   base-component.js.map
+│   │   │   button.js
+│   │   │   button.js.map
+│   │   │   carousel.js
+│   │   │   carousel.js.map
+│   │   │   collapse.js
+│   │   │   collapse.js.map
+│   │   │   dropdown.js
+│   │   │   dropdown.js.map
+│   │   │   modal.js
+│   │   │   modal.js.map
+│   │   │   offcanvas.js
+│   │   │   offcanvas.js.map
+│   │   │   popover.js
+│   │   │   popover.js.map
+│   │   │   scrollspy.js
+│   │   │   scrollspy.js.map
+│   │   │   tab.js
+│   │   │   tab.js.map
+│   │   │   toast.js
+│   │   │   toast.js.map
+│   │   │   tooltip.js
+│   │   │   tooltip.js.map
+│   │   │   
+│   │   └───dom
+│   │           data.js
+│   │           data.js.map
+│   │           event-handler.js
+│   │           event-handler.js.map
+│   │           manipulator.js
+│   │           manipulator.js.map
+│   │           selector-engine.js
+│   │           selector-engine.js.map
+│   │           
+│   ├───src
+│   │   │   alert.js
+│   │   │   base-component.js
+│   │   │   button.js
+│   │   │   carousel.js
+│   │   │   collapse.js
+│   │   │   dropdown.js
+│   │   │   modal.js
+│   │   │   offcanvas.js
+│   │   │   popover.js
+│   │   │   scrollspy.js
+│   │   │   tab.js
+│   │   │   toast.js
+│   │   │   tooltip.js
+│   │   │   
+│   │   ├───dom
+│   │   │       data.js
+│   │   │       event-handler.js
+│   │   │       manipulator.js
+│   │   │       selector-engine.js
+│   │   │       
+│   │   └───util
+│   │           backdrop.js
+│   │           index.js
+│   │           sanitizer.js
+│   │           scrollbar.js
+│   │           
+│   └───tests
+│       │   browsers.js
+│       │   karma.conf.js
+│       │   README.md
+│       │   
+│       ├───helpers
+│       │       fixture.js
+│       │       
+│       ├───integration
+│       │       bundle-modularity.js
+│       │       bundle.js
+│       │       index.html
+│       │       rollup.bundle-modularity.js
+│       │       rollup.bundle.js
+│       │       
+│       ├───unit
+│       │   │   .eslintrc.json
+│       │   │   alert.spec.js
+│       │   │   base-component.spec.js
+│       │   │   button.spec.js
+│       │   │   carousel.spec.js
+│       │   │   collapse.spec.js
+│       │   │   dropdown.spec.js
+│       │   │   jquery.spec.js
+│       │   │   modal.spec.js
+│       │   │   offcanvas.spec.js
+│       │   │   popover.spec.js
+│       │   │   scrollspy.spec.js
+│       │   │   tab.spec.js
+│       │   │   toast.spec.js
+│       │   │   tooltip.spec.js
+│       │   │   
+│       │   ├───dom
+│       │   │       data.spec.js
+│       │   │       event-handler.spec.js
+│       │   │       manipulator.spec.js
+│       │   │       selector-engine.spec.js
+│       │   │       
+│       │   └───util
+│       │           backdrop.spec.js
+│       │           index.spec.js
+│       │           sanitizer.spec.js
+│       │           scrollbar.spec.js
+│       │           
+│       └───visual
+│               alert.html
+│               button.html
+│               carousel.html
+│               collapse.html
+│               dropdown.html
+│               modal.html
+│               popover.html
+│               scrollspy.html
+│               tab.html
+│               toast.html
+│               tooltip.html
+│               
+├───nuget
+│       bootstrap.nuspec
+│       bootstrap.png
+│       bootstrap.sass.nuspec
+│       MyGet.ps1
+│       
+├───scss
+│   │   bootstrap-grid.scss
+│   │   bootstrap-reboot.scss
+│   │   bootstrap-utilities.scss
+│   │   bootstrap.scss
+│   │   _accordion.scss
+│   │   _alert.scss
+│   │   _badge.scss
+│   │   _breadcrumb.scss
+│   │  
+│   │   
+│   ├───forms
+│   │       _floating-labels.scss
+│   │       _form-check.scss
+│   │       _form-control.scss
+│   │       _form-range.scss
+│   │       _form-select.scss
+│   │       _form-text.scss
+│   │       _input-group.scss
+│   │       _labels.scss
+│   │       _validation.scss
+│   │       
+│   ├───helpers
+│   │       _clearfix.scss
+│   │       _colored-links.scss
+│   │       _position.scss
+│   │   
+│   │       
+│   ├───mixins
+│   │       _alert.scss
+│   │       _border-radius.scss
+│   │       _box-shadow.scss
+│   │       _breakpoints.scss
+│   │       
+│   ├───utilities
+│   │       _api.scss
+│   │       
+│   └───vendor
+│           _rfs.scss
+│           
+└───site
+    │   .eslintrc.json
+    │   
+    ├───assets
+    │   ├───js
+    │   │   │   application.js
+    │   │   │   search.js
+    │   │   │   
+    │   │   └───vendor
+    │   │           anchor.min.js
+    │   │           clipboard.min.js
+    │   │           
+    │   └───scss
+    │           docs.scss
+    │           _ads.scss
+    │          
+    │           
+    ├───content
+    │   │   404.md
+    │   │   
+    │   └───docs
+    │       │   versions.md
+    │       │   _index.html
+    │       │   
+    │       └───5.0
+    │           │   migration.md
+    │           │   _index.html
+    │           │   
+
+
+    │           │       
+    │           ├───customize
+    │           │       color.md
+    │           │       components.md
+    │           │       css-variables.md
+    │           │       optimize.md
+    │           │       options.md
+    │           │       overview.md
+    │           │       sass.md
+    │           │       
+    │         
+    │           │   │   
+    │           │   ├───album
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───album-rtl
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───blog
+    │           │   │       blog.css
+    │           │   │       blog.rtl.css
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───blog-rtl
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───carousel
+    │           │   │       carousel.css
+    │           │   │       carousel.rtl.css
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───carousel-rtl
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───cheatsheet
+    │           │   │       cheatsheet.css
+    │           │   │       cheatsheet.js
+    │           │   │       cheatsheet.rtl.css
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───cheatsheet-rtl
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───checkout
+    │           │   │       form-validation.css
+    │           │   │       form-validation.js
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───checkout-rtl
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───cover
+    │           │   │       cover.css
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───dashboard
+    │           │   │       dashboard.css
+    │           │   │       dashboard.js
+    │           │   │       dashboard.rtl.css
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───dashboard-rtl
+    │           │   │       dashboard.js
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───features
+    │           │   │       features.css
+    │           │   │       index.html
+  
+    │           │   │       
+    │           │   ├───grid
+    │           │   │       grid.css
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───headers
+    │           │   │       headers.css
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───heroes
+    │           │   │       bootstrap-docs.png
+    │           │   │       bootstrap-themes.png
+    │           │   │       heroes.css
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───jumbotron
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───masonry
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───navbar-bottom
+    │           │   │       index.html
+    │           │   │       
+    │           │   ├───navbar-fixed
+    │           │   │       index.html
+    │           │   │       navbar-top-fixed.css
+    │           │   │       
+    │           │   ├───navbar-static
+    │           │   │       index.html
+    │           │   │       navbar-top.css
+    │           │   │       
+    │           │   ├───navbars
+    │           │   │       index.html
+    │           │   │       navbar.css
+    │           │   │       
+    │           │   ├───offcanvas-navbar
+    │           │   │       index.html
+    │           │   │       offcanvas.css
+    │           │   │       offcanvas.js
+    │           │   │       
+    │           │   ├───pricing
+    │           │   │       index.html
+    │           │   │       pricing.css
+    │           │   │       
+    │           │   ├───product
+    │           │   │       index.html
+    │           │   │       product.css
+    │           │   │       
+    │           │   ├───sidebars
+    │           │   │       index.html
+    │           │   │       sidebars.css
+    │           │   │       sidebars.js
+    │           │   │       
+    │           │   ├───sign-in
+    │           │   │       index.html
+    │           │   │       signin.css
+    │           │   │       
+    │           │   ├───starter-template
+    │           │   │       index.html
+    │           │   │       starter-template.css
+    │           │   │       
+    │           │   ├───sticky-footer
+    │           │   │       index.html
+    │           │   │       sticky-footer.css
+    │           │   │       
+    │           │   └───sticky-footer-navbar
+    │           │           index.html
+    │           │           sticky-footer-navbar.css
+    │           │           
+    │           ├───extend
+    │           │       approach.md
+    │           │       icons.md
+    │           │       
+    │           ├───forms
+    │           │       checks-radios.md
+    │           │       floating-labels.md
+    │           │  
+    │           │       
+    │          
+    │           │       
+  
+    │                   
+    ├───data
+    │       breakpoints.yml
+    │       colors.yml
+    │       core-team.yml
+    │       docs-versions.yml
+    │       examples.yml
+    │       grays.yml
+    │       icons.yml
+    │       sidebar.yml
+    │       theme-colors.yml
+    │       translations.yml
+    │       
+    ├───layouts
+    │   │   alias.html
+    │   │   robots.txt
+    │   │   sitemap.xml
+    │   │   
+    │   ├───partials
+    │   │ 
+    │   │   │   
+    │   │   ├───home
+    │   │   │       masthead-followup.html
+    │   │   │       masthead.html
+    │   │   │       
+    │   │   └───icons
+    │   │           bootstrap-logo-solid.svg
+    │   │           bootstrap-white-fill.svg
+    │   │          
+    │   │           
+    │   ├───shortcodes
+    │   │       bs-table.html
+    │   │      
+    │   │       
+    │   └───_default
+    │           404.html
+    │         
+    │           
+    └───static
+        │   CNAME
+        │   sw.js
+        │   
+        
+                    │   │       
+                    │   └───favicons
+                    │           android-chrome-192x192.png
+                    │           android-chrome-512x512.png
+                    │           apple-touch-icon.png
+                    │           favicon-16x16.png
+                    │           favicon-32x32.png
+                    │           favicon.ico
+                    │           manifest.json
+                    │           safari-pinned-tab.svg
+                    │           
+                    └───js
+                            validate-forms.js
+                            

@@ -1,0 +1,67 @@
+
+c:\Python310\Lib\site-packages\samsungctl>if "Windows_NT" == "Windows_NT" setlocal
+
+c:\Python310\Lib\site-packages\samsungctl>set DIRNAME=c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-3.8.0\lib\languagetool-languageserver\build\install\languagetool-languageserver\bin\ 
+
+c:\Python310\Lib\site-packages\samsungctl>if "c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-3.8.0\lib\languagetool-languageserver\build\install\languagetool-languageserver\bin\" == "" set DIRNAME=. 
+
+c:\Python310\Lib\site-packages\samsungctl>set APP_BASE_NAME=languagetool-languageserver-live 
+
+c:\Python310\Lib\site-packages\samsungctl>set APP_HOME=c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-3.8.0\lib\languagetool-languageserver\build\install\languagetool-languageserver\bin\.. 
+
+c:\Python310\Lib\site-packages\samsungctl>set DEFAULT_JVM_OPTS= 
+
+c:\Python310\Lib\site-packages\samsungctl>if defined JAVA_HOME goto findJavaFromJavaHome 
+
+c:\Python310\Lib\site-packages\samsungctl>set JAVA_EXE=java.exe 
+
+c:\Python310\Lib\site-packages\samsungctl>java.exe -version  1>NUL 2>&1 
+
+c:\Python310\Lib\site-packages\samsungctl>if "0" == "0" goto init 
+
+c:\Python310\Lib\site-packages\samsungctl>if not "Windows_NT" == "Windows_NT" goto win9xME_args 
+
+c:\Python310\Lib\site-packages\samsungctl>set CMD_LINE_ARGS= 
+
+c:\Python310\Lib\site-packages\samsungctl>set _SKIP=2 
+
+c:\Python310\Lib\site-packages\samsungctl>if "x52191" == "x" goto execute 
+
+c:\Python310\Lib\site-packages\samsungctl>set CMD_LINE_ARGS=52191 
+
+c:\Python310\Lib\site-packages\samsungctl>set CLASSPATH=c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-3.8.0\lib\languagetool-languageserver\build\install\languagetool-languageserver\bin\..\lib\*;c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-de-3.8.0\lib\*;c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-en-3.8.0\lib\*;c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-pl-3.8.0\lib\*;c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-sk-3.8.0\lib\* 
+
+c:\Python310\Lib\site-packages\samsungctl>"java.exe"     -classpath "c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-3.8.0\lib\languagetool-languageserver\build\install\languagetool-languageserver\bin\..\lib\*;c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-de-3.8.0\lib\*;c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-en-3.8.0\lib\*;c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-pl-3.8.0\lib\*;c:\Users\philip\.vscode\extensions\adamvoss.vscode-languagetool-sk-3.8.0\lib\*" App 52191 
+App.main
+Lis 18, 2021 1:57:41 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:00:16 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:04:12 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Lis 18, 2021 2:29:34 ODP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
