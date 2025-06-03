@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Winutil/philipprochazka/winutil-philipprochazka"
+		},
+		{
+			"path": "../../Winutil"
+		}
+	],
+	"settings": {
+		"cSpell.enabledLanguageIds": [
+			"COBOL",
+			"ACUCOBOL"
+		],
+		"powershell.cwd": "winutil-philipprochazka"
+	}
+}
