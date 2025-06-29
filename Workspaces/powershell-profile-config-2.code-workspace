@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/philip"
+		},
+		{
+			"path": "../../LazyAdmin/Powershell"
+		},
+		{
+			"name": "chocolatey-update: Winutil-Runtime-routine-ripoff",
+			"path": "../../../Users/philip/chocolatey-update.worktrees/Winutil-Runtime-routine-ripoff"
+		},
+		{
+			"path": "../../Powershell"
+		},
+		{
+			"path": "../../../Program Files/Nilesoft Shell/imports"
+		}
+	],
+	"settings": {
+		"cSpell.enabledLanguageIds": [
+			"COBOL",
+			"ACUCOBOL"
+		],
+		"npm.enableRunFromFolder": true,
+		"powershell.cwd": "Powershell",
+		"bookmarks.label.suggestion": "suggestWhenSelectedOrLineWhenNoSelected",
+		"bookmarks.saveBookmarksInProject": true,
+		"todohighlight.enableDiagnostics": true
+	},
+	"extensions": {
+		"recommendations": [
+			"eamodio.gitlens"
+		]
+	}
+}
