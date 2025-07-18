@@ -4,8 +4,8 @@ C: \Program Files (x86)\Common Files\Oracle\Java\javapath
 C: \Program Files (x86)\VMware\VMware Player\bin\
 C: \Python311\Scripts\
 C: \Python311\
-C: \Users\philip\AppData\Local\Programs\Python\Python310\Scripts\
-C: \Users\philip\AppData\Local\Programs\Python\Python310\
+C: \Users\%USERNAME%\AppData\Local\Programs\Python\Python310\Scripts\
+C: \Users\%USERNAME%\AppData\Local\Programs\Python\Python310\
 C: \Python27\
 C: \Python27\Scripts
 C: \Python310\Scripts\
@@ -55,20 +55,20 @@ C: \Program Files\PowerShell\7\
 C: \Program Files\PuTTY\
 C: \Program Files\LLVM\bin
 C: \Program Files\MySQL\MySQL Shell 8.2\bin\
-C: \Users\philip\AppData\Local\Programs\Python\Launcher\
-C: \Users\philip\scoop\shims
-C: \Users\philip\AppData\Local\Microsoft\WindowsApps
-C: \Users\philip\AppData\Roaming\Composer\vendor\bin
+C: \Users\%USERNAME%\AppData\Local\Programs\Python\Launcher\
+C: \Users\%USERNAME%\scoop\shims
+C: \Users\%USERNAME%\AppData\Local\Microsoft\WindowsApps
+C: \Users\%USERNAME%\AppData\Roaming\Composer\vendor\bin
 C: \Program Files\Intel\WiFi\bin\
 C: \Program Files\Common Files\Intel\WirelessCommon\
 C: \tools\mysql\current\bin
-C: \Users\philip\.dotnet\tools
-C: \Users\philip\AppData\Local\GitHubDesktop\bin
-C: \Users\philip\AppData\Local\Yarn\bin
-C: \Users\philip\go\bin
-C: \Users\philip\AppData\Local\Programs\oh-my-posh\bin
-C: \Users\philip\AppData\Local\Microsoft\WinGet\Links
+C: \Users\%USERNAME%\.dotnet\tools
+C: \Users\%USERNAME%\AppData\Local\GitHubDesktop\bin
+C: \Users\%USERNAME%\AppData\Local\Yarn\bin
+C: \Users\%USERNAME%\go\bin
+C: \Users\%USERNAME%\AppData\Local\Programs\oh-my-posh\bin
+C: \Users\%USERNAME%\AppData\Local\Microsoft\WinGet\Links
 C: \ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin
-C: \Users\philip\.dotnet\tools
+C: \Users\%USERNAME%\.dotnet\tools
 C: \ProgramData\chocolatey\lib\deno
-C: \Users\philip\go\bin
+C: \Users\%USERNAME%\go\bin
